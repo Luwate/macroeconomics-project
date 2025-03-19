@@ -1,0 +1,4412 @@
+TIME_PERIOD,country,unemployment_rate
+1955-01,Canada,4.8
+1955-01,United States,4.9
+1955-01,Japan,2.6
+1955-02,United States,4.7
+1955-02,Japan,2.5
+1955-02,Canada,4.7
+1955-03,Canada,4.9
+1955-03,United States,4.6
+1955-03,Japan,2.3
+1955-04,Japan,2.5
+1955-04,United States,4.7
+1955-04,Canada,4.5
+1955-05,Japan,2.4
+1955-05,United States,4.3
+1955-05,Canada,4.5
+1955-06,Canada,4.3
+1955-06,United States,4.2
+1955-06,Japan,2.6
+1955-07,Canada,4.3
+1955-07,United States,4.0
+1955-07,Japan,2.6
+1955-08,Canada,3.8
+1955-08,Japan,2.6
+1955-08,United States,4.2
+1955-09,Canada,4.1
+1955-09,Japan,2.6
+1955-09,United States,4.1
+1955-10,Canada,4.0
+1955-10,United States,4.3
+1955-10,Japan,2.7
+1955-11,Canada,3.8
+1955-11,United States,4.2
+1955-11,Japan,2.4
+1955-12,United States,4.2
+1955-12,Japan,2.4
+1955-12,Canada,3.7
+1956-01,Japan,2.5
+1956-01,Canada,3.7
+1956-01,United States,4.0
+1956-02,Canada,3.8
+1956-02,Japan,2.6
+1956-02,United States,3.9
+1956-03,Canada,3.6
+1956-03,United States,4.2
+1956-03,Japan,2.7
+1956-04,United States,4.0
+1956-04,Canada,3.5
+1956-04,Japan,2.4
+1956-05,United States,4.3
+1956-05,Canada,3.4
+1956-05,Japan,2.3
+1956-06,Canada,3.2
+1956-06,United States,4.3
+1956-06,Japan,2.2
+1956-07,Japan,2.1
+1956-07,United States,4.4
+1956-07,Canada,3.0
+1956-08,Canada,3.0
+1956-08,United States,4.1
+1956-08,Japan,2.1
+1956-09,United States,3.9
+1956-09,Canada,3.1
+1956-09,Japan,2.2
+1956-10,United States,3.9
+1956-10,Canada,2.8
+1956-10,Japan,2.0
+1956-11,Japan,2.2
+1956-11,United States,4.3
+1956-11,Canada,3.1
+1956-12,United States,4.2
+1956-12,Japan,2.3
+1956-12,Canada,3.4
+1957-01,Japan,2.1
+1957-01,Canada,3.8
+1957-01,United States,4.2
+1957-02,Canada,3.9
+1957-02,United States,3.9
+1957-02,Japan,2.0
+1957-03,Japan,2.0
+1957-03,United States,3.7
+1957-03,Canada,4.1
+1957-04,Canada,4.2
+1957-04,United States,3.9
+1957-04,Japan,2.0
+1957-05,Japan,1.9
+1957-05,Canada,3.9
+1957-05,United States,4.1
+1957-06,Canada,4.3
+1957-06,United States,4.3
+1957-06,Japan,1.8
+1957-07,Canada,4.6
+1957-07,United States,4.2
+1957-07,Japan,1.8
+1957-08,Japan,1.8
+1957-08,Canada,4.8
+1957-08,United States,4.1
+1957-09,Canada,5.4
+1957-09,Japan,2.0
+1957-09,United States,4.4
+1957-10,Japan,2.0
+1957-10,United States,4.5
+1957-10,Canada,5.3
+1957-11,Japan,1.9
+1957-11,United States,5.1
+1957-11,Canada,6.2
+1957-12,United States,5.2
+1957-12,Japan,1.8
+1957-12,Canada,6.5
+1958-01,Japan,1.9
+1958-01,Canada,6.5
+1958-01,United States,5.8
+1958-02,Canada,6.6
+1958-02,Japan,1.9
+1958-02,United States,6.4
+1958-03,Japan,2.0
+1958-03,United States,6.7
+1958-03,Canada,6.9
+1958-04,United States,7.4
+1958-04,Japan,2.0
+1958-04,Canada,6.9
+1958-05,United States,7.4
+1958-05,Japan,2.0
+1958-05,Canada,7.0
+1958-06,United States,7.3
+1958-06,Japan,2.2
+1958-06,Canada,7.9
+1958-07,Canada,7.5
+1958-07,Japan,2.1
+1958-07,United States,7.5
+1958-08,Canada,7.5
+1958-08,Japan,2.2
+1958-08,United States,7.4
+1958-09,Canada,7.1
+1958-09,Japan,2.2
+1958-09,United States,7.1
+1958-10,Japan,2.1
+1958-10,Canada,7.5
+1958-10,United States,6.7
+1958-11,United States,6.2
+1958-11,Japan,2.1
+1958-11,Canada,7.2
+1958-12,United States,6.2
+1958-12,Canada,7.0
+1958-12,Japan,2.1
+1959-01,United States,6.0
+1959-01,Japan,2.4
+1959-01,Canada,6.5
+1959-02,United States,5.9
+1959-02,Canada,6.2
+1959-02,Japan,2.5
+1959-03,United States,5.6
+1959-03,Canada,6.0
+1959-03,Japan,2.4
+1959-04,Canada,5.8
+1959-04,United States,5.2
+1959-04,Japan,2.2
+1959-05,Canada,6.3
+1959-05,United States,5.1
+1959-05,Japan,2.2
+1959-06,Canada,5.6
+1959-06,Japan,2.3
+1959-06,United States,5.0
+1959-07,United States,5.1
+1959-07,Japan,2.3
+1959-07,Canada,5.5
+1959-08,United States,5.2
+1959-08,Japan,2.3
+1959-08,Canada,5.9
+1959-09,Japan,2.0
+1959-09,Canada,5.4
+1959-09,United States,5.5
+1959-10,United States,5.7
+1959-10,Japan,1.9
+1959-10,Canada,5.5
+1959-11,Japan,2.0
+1959-11,Canada,5.8
+1959-11,United States,5.8
+1959-12,United States,5.3
+1959-12,Canada,6.0
+1959-12,Japan,2.0
+1960-01,United States,5.2
+1960-01,Canada,6.1
+1960-01,Japan,1.9
+1960-02,Japan,1.7
+1960-02,United States,4.8
+1960-02,Canada,6.4
+1960-03,United States,5.4
+1960-03,Canada,6.5
+1960-03,Japan,1.7
+1960-04,Japan,1.7
+1960-04,United States,5.2
+1960-04,Canada,6.8
+1960-05,Canada,7.2
+1960-05,United States,5.1
+1960-05,Japan,1.7
+1960-06,Canada,6.7
+1960-06,United States,5.4
+1960-06,Japan,1.6
+1960-07,Japan,1.5
+1960-07,United States,5.5
+1960-07,Canada,7.1
+1960-08,Canada,7.6
+1960-08,United States,5.6
+1960-08,Japan,1.6
+1960-09,United States,5.5
+1960-09,Japan,1.6
+1960-09,Canada,7.5
+1960-10,Japan,1.4
+1960-10,Canada,7.6
+1960-10,United States,6.1
+1960-11,Japan,1.5
+1960-11,Canada,7.5
+1960-11,United States,6.1
+1960-12,Canada,7.6
+1960-12,Japan,1.5
+1960-12,United States,6.6
+1961-01,Canada,7.6
+1961-01,United States,6.6
+1961-01,Japan,1.5
+1961-02,United States,6.9
+1961-02,Canada,7.7
+1961-02,Japan,1.5
+1961-03,United States,6.9
+1961-03,Canada,7.6
+1961-03,Japan,1.3
+1961-04,United States,7.0
+1961-04,Canada,7.6
+1961-04,Japan,1.4
+1961-05,Japan,1.5
+1961-05,United States,7.1
+1961-05,Canada,7.6
+1961-06,Japan,1.5
+1961-06,Canada,7.4
+1961-06,United States,6.9
+1961-07,United States,7.0
+1961-07,Japan,1.5
+1961-07,Canada,7.2
+1961-08,Canada,6.8
+1961-08,United States,6.6
+1961-08,Japan,1.4
+1961-09,Canada,6.9
+1961-09,Japan,1.4
+1961-09,United States,6.7
+1961-10,Canada,6.5
+1961-10,Japan,1.4
+1961-10,United States,6.5
+1961-11,Japan,1.5
+1961-11,Canada,6.1
+1961-11,United States,6.1
+1961-12,Canada,6.0
+1961-12,Japan,1.4
+1961-12,United States,6.0
+1962-01,Canada,6.0
+1962-01,United States,5.8
+1962-01,Japan,1.3
+1962-02,United States,5.5
+1962-02,Japan,1.3
+1962-02,Canada,6.2
+1962-03,United States,5.6
+1962-03,Canada,6.0
+1962-03,Japan,1.3
+1962-04,United States,5.6
+1962-04,Japan,1.4
+1962-04,Canada,5.9
+1962-05,Japan,1.2
+1962-05,Canada,5.6
+1962-05,United States,5.5
+1962-06,United States,5.5
+1962-06,Japan,1.3
+1962-06,Canada,5.7
+1962-07,Canada,6.0
+1962-07,United States,5.4
+1962-07,Japan,1.3
+1962-08,Japan,1.2
+1962-08,Canada,5.7
+1962-08,United States,5.7
+1962-09,Canada,5.7
+1962-09,United States,5.6
+1962-09,Japan,1.2
+1962-10,Japan,1.4
+1962-10,United States,5.4
+1962-10,Canada,5.7
+1962-11,Japan,1.3
+1962-11,United States,5.7
+1962-11,Canada,5.9
+1962-12,Canada,6.0
+1962-12,United States,5.5
+1962-12,Japan,1.3
+1963-01,Canada,5.9
+1963-01,Japan,1.4
+1963-01,United States,5.7
+1963-02,United States,5.9
+1963-02,Japan,1.4
+1963-02,Canada,5.8
+1963-03,Japan,1.4
+1963-03,United States,5.7
+1963-03,Canada,5.9
+1963-04,Japan,1.2
+1963-04,United States,5.7
+1963-04,Canada,5.7
+1963-05,Canada,5.7
+1963-05,Japan,1.3
+1963-05,United States,5.9
+1963-06,Japan,1.1
+1963-06,Canada,5.5
+1963-06,United States,5.6
+1963-07,Japan,1.1
+1963-07,Canada,5.4
+1963-07,United States,5.6
+1963-08,Canada,5.3
+1963-08,United States,5.4
+1963-08,Japan,1.2
+1963-09,United States,5.5
+1963-09,Canada,5.3
+1963-09,Japan,1.3
+1963-10,Canada,5.2
+1963-10,United States,5.5
+1963-10,Japan,1.2
+1963-11,United States,5.7
+1963-11,Canada,5.1
+1963-11,Japan,1.2
+1963-12,Canada,5.0
+1963-12,United States,5.5
+1963-12,Japan,1.3
+1964-01,Japan,1.2
+1964-01,Canada,4.9
+1964-01,United States,5.6
+1964-02,Japan,1.3
+1964-02,United States,5.4
+1964-02,Canada,4.9
+1964-03,Japan,1.2
+1964-03,Canada,4.8
+1964-03,United States,5.4
+1964-04,Canada,4.9
+1964-04,Japan,1.2
+1964-04,United States,5.3
+1964-05,Canada,4.6
+1964-05,United States,5.1
+1964-05,Japan,1.1
+1964-06,United States,5.2
+1964-06,Japan,1.2
+1964-06,Canada,4.8
+1964-07,Canada,4.6
+1964-07,United States,4.9
+1964-07,Japan,1.2
+1964-08,Canada,4.6
+1964-08,United States,5.0
+1964-08,Japan,1.2
+1964-09,Canada,4.5
+1964-09,United States,5.1
+1964-09,Japan,1.1
+1964-10,United States,5.1
+1964-10,Japan,1.1
+1964-10,Canada,4.9
+1964-11,Canada,4.3
+1964-11,United States,4.8
+1964-11,Japan,1.1
+1964-12,Japan,1.1
+1964-12,Canada,4.1
+1964-12,United States,5.0
+1965-01,Japan,1.1
+1965-01,Canada,4.2
+1965-01,United States,4.9
+1965-02,United States,5.1
+1965-02,Japan,1.2
+1965-02,Canada,4.1
+1965-03,Japan,1.1
+1965-03,United States,4.7
+1965-03,Canada,4.1
+1965-04,United States,4.8
+1965-04,Canada,4.4
+1965-04,Japan,1.2
+1965-05,Japan,1.2
+1965-05,United States,4.6
+1965-05,Canada,4.0
+1965-06,Japan,1.3
+1965-06,Canada,4.1
+1965-06,United States,4.6
+1965-07,Canada,3.9
+1965-07,United States,4.4
+1965-07,Japan,1.3
+1965-08,United States,4.4
+1965-08,Canada,3.8
+1965-08,Japan,1.2
+1965-09,Canada,3.6
+1965-09,United States,4.3
+1965-09,Japan,1.3
+1965-10,United States,4.2
+1965-10,Canada,3.1
+1965-10,Japan,1.3
+1965-11,Japan,1.3
+1965-11,United States,4.1
+1965-11,Canada,3.6
+1965-12,Canada,3.5
+1965-12,Japan,1.3
+1965-12,United States,4.0
+1966-01,Canada,3.4
+1966-01,United States,4.0
+1966-01,Japan,1.4
+1966-02,Japan,1.3
+1966-02,United States,3.8
+1966-02,Canada,3.4
+1966-03,Japan,1.4
+1966-03,United States,3.8
+1966-03,Canada,3.3
+1966-04,United States,3.8
+1966-04,Japan,1.3
+1966-04,Canada,3.2
+1966-05,United States,3.9
+1966-05,Canada,3.2
+1966-05,Japan,1.4
+1966-06,Japan,1.3
+1966-06,Canada,2.9
+1966-06,United States,3.8
+1966-07,Canada,3.2
+1966-07,United States,3.8
+1966-07,Japan,1.2
+1966-08,Japan,1.3
+1966-08,Canada,3.5
+1966-08,United States,3.8
+1966-09,Japan,1.4
+1966-09,Canada,3.6
+1966-09,United States,3.7
+1966-10,Canada,3.3
+1966-10,United States,3.7
+1966-10,Japan,1.3
+1966-11,Japan,1.3
+1966-11,Canada,3.5
+1966-11,United States,3.6
+1966-12,Canada,3.4
+1966-12,United States,3.8
+1966-12,Japan,1.2
+1967-01,Canada,3.6
+1967-01,United States,3.9
+1967-01,Japan,1.2
+1967-02,United States,3.8
+1967-02,Canada,3.7
+1967-02,Japan,1.1
+1967-03,Japan,1.6
+1967-03,United States,3.8
+1967-03,Canada,3.8
+1967-04,Japan,1.3
+1967-04,United States,3.8
+1967-04,Canada,3.9
+1967-05,United States,3.8
+1967-05,Japan,1.2
+1967-05,Canada,3.7
+1967-06,Canada,3.6
+1967-06,United States,3.9
+1967-06,Japan,1.3
+1967-07,United States,3.8
+1967-07,Japan,1.2
+1967-07,Canada,3.7
+1967-08,Canada,3.6
+1967-08,Japan,1.2
+1967-08,United States,3.8
+1967-09,Japan,1.1
+1967-09,Canada,3.7
+1967-09,United States,3.8
+1967-10,Japan,1.2
+1967-10,Canada,4.1
+1967-10,United States,4.0
+1967-11,Japan,1.3
+1967-11,Canada,4.0
+1967-11,United States,3.9
+1967-12,Canada,4.4
+1967-12,United States,3.8
+1967-12,Japan,1.3
+1968-01,United States,3.7
+1968-01,Canada,4.3
+1968-01,Japan,1.3
+1968-02,United States,3.8
+1968-02,Canada,4.4
+1968-02,Japan,1.3
+1968-03,Canada,4.6
+1968-03,Japan,1.2
+1968-03,United States,3.7
+1968-04,Japan,1.2
+1968-04,United States,3.5
+1968-04,Canada,4.5
+1968-05,United States,3.5
+1968-05,Japan,1.2
+1968-05,Canada,4.4
+1968-06,United States,3.7
+1968-06,Canada,4.7
+1968-06,Japan,1.1
+1968-07,Japan,1.3
+1968-07,Canada,4.7
+1968-07,United States,3.7
+1968-08,Canada,4.6
+1968-08,Japan,1.2
+1968-08,United States,3.5
+1968-09,United States,3.4
+1968-09,Japan,1.1
+1968-09,Canada,4.3
+1968-10,United States,3.4
+1968-10,Japan,1.1
+1968-10,Canada,4.4
+1968-11,Canada,4.5
+1968-11,United States,3.4
+1968-11,Japan,1.0
+1968-12,Japan,1.1
+1968-12,United States,3.4
+1968-12,Canada,4.5
+1969-01,Canada,4.3
+1969-01,United States,3.4
+1969-01,Japan,1.1
+1969-02,United States,3.4
+1969-02,Japan,1.2
+1969-02,Canada,4.3
+1969-03,Canada,4.2
+1969-03,United States,3.4
+1969-03,Japan,1.1
+1969-04,Japan,1.1
+1969-04,Canada,4.3
+1969-04,United States,3.4
+1969-05,Canada,4.4
+1969-05,United States,3.4
+1969-05,Japan,1.2
+1969-06,Canada,4.4
+1969-06,United States,3.5
+1969-06,Japan,1.3
+1969-07,United States,3.5
+1969-07,Japan,1.2
+1969-07,Canada,4.3
+1969-08,Canada,4.5
+1969-08,Japan,1.1
+1969-08,United States,3.5
+1969-09,United States,3.7
+1969-09,Japan,1.1
+1969-09,Canada,4.4
+1969-10,United States,3.7
+1969-10,Japan,1.1
+1969-10,Canada,4.7
+1969-11,United States,3.5
+1969-11,Japan,1.0
+1969-11,Canada,4.6
+1969-12,Japan,1.1
+1969-12,United States,3.5
+1969-12,Canada,4.5
+1970-01,Japan,1.1
+1970-01,Canada,4.5
+1970-01,United States,3.9
+1970-02,Canada,4.9
+1970-02,United States,4.2
+1970-02,Japan,1.1
+1970-03,Canada,5.2
+1970-03,United States,4.4
+1970-03,Japan,1.0
+1970-04,Canada,5.4
+1970-04,United States,4.6
+1970-04,Japan,1.2
+1970-05,United States,4.8
+1970-05,Japan,1.1
+1970-05,Canada,5.8
+1970-06,Canada,6.1
+1970-06,United States,4.9
+1970-06,Japan,1.1
+1970-07,Japan,1.2
+1970-07,Canada,6.4
+1970-07,United States,5.0
+1970-08,Japan,1.2
+1970-08,Canada,6.1
+1970-08,United States,5.1
+1970-09,Japan,1.3
+1970-09,United States,5.4
+1970-09,Canada,6.0
+1970-10,Japan,1.3
+1970-10,Canada,6.0
+1970-10,United States,5.5
+1970-11,Canada,6.1
+1970-11,Japan,1.3
+1970-11,United States,5.9
+1970-12,United States,6.1
+1970-12,Canada,6.2
+1970-12,Japan,1.2
+1971-01,Canada,6.2
+1971-01,United States,5.9
+1971-01,Japan,1.1
+1971-02,Canada,6.3
+1971-02,United States,5.9
+1971-02,Japan,1.2
+1971-03,United States,6.0
+1971-03,Japan,1.2
+1971-03,Canada,6.2
+1971-04,Japan,1.2
+1971-04,United States,5.9
+1971-04,Canada,6.6
+1971-05,Japan,1.2
+1971-05,Canada,6.1
+1971-05,United States,5.9
+1971-06,United States,5.9
+1971-06,Japan,1.2
+1971-06,Canada,6.1
+1971-07,Japan,1.2
+1971-07,United States,6.0
+1971-07,Canada,6.1
+1971-08,Japan,1.3
+1971-08,Canada,6.0
+1971-08,United States,6.1
+1971-09,United States,6.0
+1971-09,Japan,1.2
+1971-09,Canada,6.2
+1971-10,Canada,6.3
+1971-10,Japan,1.3
+1971-10,United States,5.8
+1971-11,Japan,1.3
+1971-11,Canada,6.2
+1971-11,United States,6.0
+1971-12,Canada,5.9
+1971-12,United States,6.0
+1971-12,Japan,1.4
+1972-01,Canada,6.0
+1972-01,United States,5.8
+1972-01,Japan,1.4
+1972-02,Canada,5.8
+1972-02,Japan,1.4
+1972-02,United States,5.7
+1972-03,Canada,6.1
+1972-03,United States,5.8
+1972-03,Japan,1.4
+1972-04,United States,5.7
+1972-04,Canada,5.8
+1972-04,Japan,1.4
+1972-05,United States,5.7
+1972-05,Canada,6.1
+1972-05,Japan,1.4
+1972-06,Canada,6.3
+1972-06,Japan,1.4
+1972-06,United States,5.7
+1972-07,Japan,1.4
+1972-07,United States,5.6
+1972-07,Canada,6.3
+1972-08,Japan,1.4
+1972-08,United States,5.6
+1972-08,Canada,6.4
+1972-09,Canada,6.4
+1972-09,Japan,1.5
+1972-09,United States,5.5
+1972-10,Canada,6.6
+1972-10,Japan,1.4
+1972-10,United States,5.6
+1972-11,United States,5.3
+1972-11,Canada,6.4
+1972-11,Japan,1.4
+1972-12,Japan,1.4
+1972-12,United States,5.2
+1972-12,Canada,6.4
+1973-01,Canada,6.1
+1973-01,United States,4.9
+1973-01,Japan,1.3
+1973-02,United States,5.0
+1973-02,Japan,1.2
+1973-02,Canada,5.9
+1973-03,United States,4.9
+1973-03,Japan,1.2
+1973-03,Canada,5.6
+1973-04,Canada,5.5
+1973-04,United States,5.0
+1973-04,Japan,1.3
+1973-05,Canada,5.3
+1973-05,Japan,1.4
+1973-05,United States,4.9
+1973-06,United States,4.9
+1973-06,Canada,5.4
+1973-06,Japan,1.4
+1973-07,United States,4.8
+1973-07,Canada,5.3
+1973-07,Japan,1.3
+1973-08,Japan,1.2
+1973-08,Canada,5.3
+1973-08,United States,4.8
+1973-09,Japan,1.3
+1973-09,Canada,5.6
+1973-09,United States,4.8
+1973-10,Japan,1.1
+1973-10,Canada,5.7
+1973-10,United States,4.6
+1973-11,United States,4.8
+1973-11,Japan,1.2
+1973-11,Canada,5.5
+1973-12,Japan,1.1
+1973-12,Canada,5.4
+1973-12,United States,4.9
+1974-01,Canada,5.3
+1974-01,United States,5.1
+1974-01,Japan,1.2
+1974-02,Canada,5.2
+1974-02,United States,5.2
+1974-02,Japan,1.3
+1974-03,United States,5.1
+1974-03,Japan,1.4
+1974-03,Canada,5.2
+1974-04,United States,5.1
+1974-04,Canada,5.2
+1974-04,Japan,1.3
+1974-05,Japan,1.3
+1974-05,United States,5.1
+1974-05,Canada,5.4
+1974-06,Canada,5.0
+1974-06,Japan,1.3
+1974-06,United States,5.4
+1974-07,Canada,5.1
+1974-07,Japan,1.3
+1974-07,United States,5.5
+1974-08,Canada,5.3
+1974-08,Japan,1.5
+1974-08,United States,5.5
+1974-09,Japan,1.4
+1974-09,United States,5.9
+1974-09,Canada,5.4
+1974-10,Japan,1.6
+1974-10,Canada,5.4
+1974-10,United States,6.0
+1974-11,Japan,1.5
+1974-11,Canada,5.6
+1974-11,United States,6.6
+1974-12,Japan,1.7
+1974-12,Canada,6.0
+1974-12,United States,7.2
+1975-01,Canada,6.9
+1975-01,United States,8.1
+1975-01,Japan,1.7
+1975-02,Canada,6.6
+1975-02,Japan,1.8
+1975-02,United States,8.1
+1975-03,Canada,6.6
+1975-03,Japan,1.8
+1975-03,United States,8.6
+1975-04,Japan,1.8
+1975-04,United States,8.8
+1975-04,Canada,6.5
+1975-05,Japan,1.8
+1975-05,Canada,7.0
+1975-05,United States,9.0
+1975-06,Japan,1.8
+1975-06,Canada,7.0
+1975-06,United States,8.8
+1975-07,United States,8.6
+1975-07,Japan,1.8
+1975-07,Canada,6.9
+1975-08,Japan,1.9
+1975-08,United States,8.4
+1975-08,Canada,7.1
+1975-09,United States,8.4
+1975-09,Canada,6.9
+1975-09,Japan,2.0
+1975-10,United States,8.4
+1975-10,Japan,2.1
+1975-10,Canada,7.2
+1975-11,Canada,7.2
+1975-11,United States,8.3
+1975-11,Japan,2.1
+1975-12,Japan,2.1
+1975-12,Canada,7.0
+1975-12,United States,8.2
+1976-01,Japan,2.1
+1976-01,Canada,7.1
+1976-01,United States,7.9
+1976-02,Japan,2.0
+1976-02,United States,7.7
+1976-02,Canada,7.0
+1976-03,Japan,2.0
+1976-03,Canada,6.7
+1976-03,United States,7.6
+1976-04,Japan,2.1
+1976-04,Canada,6.8
+1976-04,United States,7.7
+1976-05,Japan,2.1
+1976-05,Canada,6.9
+1976-05,United States,7.4
+1976-06,Japan,2.0
+1976-06,Canada,6.9
+1976-06,United States,7.6
+1976-07,United States,7.8
+1976-07,Canada,7.4
+1976-07,Japan,2.0
+1976-08,Canada,7.1
+1976-08,Japan,2.0
+1976-08,United States,7.8
+1976-09,Japan,2.0
+1976-09,Canada,7.0
+1976-09,United States,7.6
+1976-10,United States,7.7
+1976-10,Japan,2.0
+1976-10,Canada,7.4
+1976-11,United States,7.8
+1976-11,Canada,7.4
+1976-11,Japan,2.0
+1976-12,United States,7.8
+1976-12,Japan,1.8
+1976-12,Canada,7.5
+1977-01,United States,7.5
+1977-01,Canada,7.6
+1977-01,Japan,1.9
+1977-02,United States,7.6
+1977-02,Japan,2.0
+1977-02,Canada,7.9
+1977-03,Canada,7.8
+1977-03,United States,7.4
+1977-03,Japan,2.0
+1977-04,United States,7.2
+1977-04,Canada,7.9
+1977-04,Japan,1.9
+1977-05,Canada,7.8
+1977-05,United States,7.0
+1977-05,Japan,2.1
+1977-06,Japan,2.1
+1977-06,Canada,7.8
+1977-06,United States,7.2
+1977-07,Japan,2.1
+1977-07,Canada,8.1
+1977-07,United States,6.9
+1977-08,Japan,2.0
+1977-08,United States,7.0
+1977-08,Canada,8.2
+1977-09,Japan,2.0
+1977-09,Canada,8.3
+1977-09,United States,6.8
+1977-10,Japan,1.9
+1977-10,Canada,8.4
+1977-10,United States,6.8
+1977-11,Canada,8.5
+1977-11,United States,6.8
+1977-11,Japan,2.0
+1977-12,Japan,2.1
+1977-12,Canada,8.5
+1977-12,United States,6.4
+1978-01,Canada,8.3
+1978-01,Japan,2.1
+1978-01,United States,6.4
+1978-02,United States,6.3
+1978-02,Japan,2.2
+1978-02,Canada,8.3
+1978-03,Japan,2.2
+1978-03,Canada,8.5
+1978-03,United States,6.3
+1978-04,Canada,8.4
+1978-04,United States,6.1
+1978-04,Japan,2.2
+1978-05,Canada,8.6
+1978-05,Japan,2.3
+1978-05,United States,6.0
+1978-06,Canada,8.4
+1978-06,United States,5.9
+1978-06,Japan,2.3
+1978-07,Japan,2.2
+1978-07,United States,6.2
+1978-07,Canada,8.3
+1978-08,Canada,8.4
+1978-08,Japan,2.3
+1978-08,United States,5.9
+1978-09,Japan,2.4
+1978-09,United States,6.0
+1978-09,Canada,8.4
+1978-10,Canada,8.2
+1978-10,Japan,2.2
+1978-10,United States,5.8
+1978-11,United States,5.9
+1978-11,Japan,2.2
+1978-11,Canada,8.3
+1978-12,United States,6.0
+1978-12,Japan,2.2
+1978-12,Canada,8.3
+1979-01,Japan,2.2
+1979-01,Canada,8.2
+1979-01,United States,5.9
+1979-02,Canada,8.0
+1979-02,Japan,2.0
+1979-02,United States,5.9
+1979-03,Japan,2.1
+1979-03,Canada,7.9
+1979-03,United States,5.8
+1979-04,Canada,8.0
+1979-04,United States,5.8
+1979-04,Japan,2.1
+1979-05,United States,5.6
+1979-05,Japan,2.0
+1979-05,Canada,7.6
+1979-06,Japan,2.0
+1979-06,Canada,7.4
+1979-06,United States,5.7
+1979-07,United States,5.7
+1979-07,Japan,2.2
+1979-07,Canada,7.2
+1979-08,Japan,2.2
+1979-08,United States,6.0
+1979-08,Canada,7.1
+1979-09,Japan,2.0
+1979-09,Canada,7.0
+1979-09,United States,5.9
+1979-10,Japan,2.1
+1979-10,United States,6.0
+1979-10,Canada,7.2
+1979-11,Japan,2.1
+1979-11,United States,5.9
+1979-11,Canada,7.2
+1979-12,Canada,7.2
+1979-12,Japan,2.0
+1979-12,United States,6.0
+1980-01,Canada,7.5
+1980-01,United States,6.3
+1980-01,Japan,1.9
+1980-02,Japan,1.9
+1980-02,Canada,7.6
+1980-02,United States,6.3
+1980-03,Canada,7.6
+1980-03,United States,6.3
+1980-03,Japan,1.9
+1980-04,United States,6.9
+1980-04,Canada,7.7
+1980-04,Japan,2.0
+1980-05,United States,7.5
+1980-05,Canada,7.8
+1980-05,Japan,2.0
+1980-06,Canada,7.7
+1980-06,United States,7.6
+1980-06,Japan,1.9
+1980-07,Canada,7.6
+1980-07,United States,7.8
+1980-07,Japan,2.0
+1980-08,Japan,2.1
+1980-08,United States,7.7
+1980-08,Canada,7.6
+1980-09,Canada,7.3
+1980-09,United States,7.5
+1980-09,Japan,2.0
+1980-10,Canada,7.3
+1980-10,United States,7.5
+1980-10,Japan,2.1
+1980-11,Japan,2.2
+1980-11,Canada,7.2
+1980-11,United States,7.5
+1980-12,Japan,2.2
+1980-12,United States,7.2
+1980-12,Canada,7.3
+1981-01,United States,7.5
+1981-01,Canada,7.4
+1981-01,Japan,2.1
+1981-02,Canada,7.4
+1981-02,Japan,2.3
+1981-02,United States,7.4
+1981-03,Canada,7.4
+1981-03,United States,7.4
+1981-03,Japan,2.2
+1981-04,Japan,2.2
+1981-04,Canada,7.1
+1981-04,United States,7.2
+1981-05,United States,7.5
+1981-05,Canada,7.2
+1981-05,Japan,2.3
+1981-06,Canada,7.2
+1981-06,United States,7.5
+1981-06,Japan,2.3
+1981-07,United States,7.2
+1981-07,Japan,2.2
+1981-07,Canada,7.2
+1981-08,United States,7.4
+1981-08,Japan,2.1
+1981-08,Canada,7.1
+1981-09,Japan,2.2
+1981-09,Canada,8.1
+1981-09,United States,7.6
+1981-10,United States,7.9
+1981-10,Canada,8.3
+1981-10,Japan,2.2
+1981-11,Canada,8.3
+1981-11,United States,8.3
+1981-11,Japan,2.2
+1981-12,United States,8.5
+1981-12,Canada,8.7
+1981-12,Japan,2.2
+1982-01,Canada,8.6
+1982-01,Japan,2.2
+1982-01,United States,8.6
+1982-02,United States,8.9
+1982-02,Canada,8.9
+1982-02,Japan,2.2
+1982-03,United States,9.0
+1982-03,Canada,9.3
+1982-03,Japan,2.3
+1982-04,United States,9.3
+1982-04,Canada,9.8
+1982-04,Japan,2.3
+1982-05,United States,9.4
+1982-05,Japan,2.3
+1982-05,Canada,10.3
+1982-06,United States,9.6
+1982-06,Japan,2.4
+1982-06,Canada,11.1
+1982-07,Japan,2.4
+1982-07,Canada,11.9
+1982-07,United States,9.8
+1982-08,Canada,12.0
+1982-08,United States,9.8
+1982-08,Japan,2.3
+1982-09,Canada,12.4
+1982-09,United States,10.1
+1982-09,Japan,2.4
+1982-10,United States,10.4
+1982-10,Canada,12.9
+1982-10,Japan,2.5
+1982-11,Canada,12.9
+1982-11,United States,10.8
+1982-11,Japan,2.4
+1982-12,Canada,13.1
+1982-12,Japan,2.5
+1982-12,United States,10.8
+1983-01,United Kingdom,10.7
+1983-01,Canada,12.7
+1983-01,Japan,2.7
+1983-01,United States,10.4
+1983-01,France,8.3
+1983-01,Italy,6.9
+1983-02,Japan,2.7
+1983-02,France,8.0
+1983-02,Italy,7.1
+1983-02,Canada,12.7
+1983-02,United States,10.4
+1983-02,United Kingdom,10.8
+1983-03,France,8.0
+1983-03,Japan,2.6
+1983-03,United Kingdom,10.8
+1983-03,Italy,7.2
+1983-03,Canada,12.5
+1983-03,United States,10.3
+1983-04,Italy,7.2
+1983-04,Japan,2.7
+1983-04,United Kingdom,11.0
+1983-04,United States,10.2
+1983-04,Canada,12.4
+1983-04,France,8.3
+1983-05,United States,10.1
+1983-05,Italy,7.3
+1983-05,Japan,2.7
+1983-05,United Kingdom,10.9
+1983-05,Canada,12.4
+1983-05,France,8.5
+1983-06,Japan,2.6
+1983-06,Canada,12.4
+1983-06,United Kingdom,11.0
+1983-06,Italy,7.3
+1983-06,United States,10.1
+1983-06,France,8.8
+1983-07,United Kingdom,10.9
+1983-07,Canada,11.9
+1983-07,Italy,7.4
+1983-07,France,8.9
+1983-07,United States,9.4
+1983-07,Japan,2.6
+1983-08,United Kingdom,10.9
+1983-08,Canada,11.7
+1983-08,Italy,7.4
+1983-08,France,9.0
+1983-08,Japan,2.8
+1983-08,United States,9.5
+1983-09,France,9.1
+1983-09,United Kingdom,10.9
+1983-09,United States,9.2
+1983-09,Canada,11.4
+1983-09,Japan,2.7
+1983-09,Italy,7.5
+1983-10,Canada,11.3
+1983-10,Italy,7.6
+1983-10,Japan,2.6
+1983-10,France,9.2
+1983-10,United Kingdom,10.8
+1983-10,United States,8.8
+1983-11,France,9.4
+1983-11,Italy,7.7
+1983-11,Canada,11.3
+1983-11,United Kingdom,10.8
+1983-11,United States,8.5
+1983-11,Japan,2.6
+1983-12,France,9.6
+1983-12,Italy,7.8
+1983-12,Canada,11.3
+1983-12,United States,8.3
+1983-12,Japan,2.6
+1983-12,United Kingdom,10.8
+1984-01,United States,8.0
+1984-01,Canada,11.3
+1984-01,United Kingdom,10.7
+1984-01,Italy,7.9
+1984-01,Japan,2.7
+1984-01,France,9.6
+1984-02,Japan,2.7
+1984-02,Italy,7.9
+1984-02,France,9.7
+1984-02,Canada,11.3
+1984-02,United States,7.8
+1984-02,United Kingdom,10.8
+1984-03,France,9.8
+1984-03,Japan,2.7
+1984-03,Italy,7.8
+1984-03,United States,7.8
+1984-03,United Kingdom,10.7
+1984-03,Canada,11.3
+1984-04,United States,7.7
+1984-04,United Kingdom,10.7
+1984-04,Canada,11.5
+1984-04,Italy,7.9
+1984-04,France,9.9
+1984-04,Japan,2.7
+1984-05,Canada,11.7
+1984-05,United States,7.4
+1984-05,Japan,2.7
+1984-05,France,9.9
+1984-05,Italy,7.8
+1984-05,United Kingdom,10.7
+1984-06,Italy,7.8
+1984-06,France,10.0
+1984-06,Canada,11.3
+1984-06,United States,7.2
+1984-06,United Kingdom,10.8
+1984-06,Japan,2.8
+1984-07,France,10.1
+1984-07,Canada,11.2
+1984-07,United Kingdom,10.9
+1984-07,United States,7.5
+1984-07,Italy,7.8
+1984-07,Japan,2.8
+1984-08,France,10.2
+1984-08,Canada,11.3
+1984-08,United States,7.5
+1984-08,United Kingdom,10.9
+1984-08,Japan,2.7
+1984-08,Italy,7.8
+1984-09,Italy,7.8
+1984-09,United States,7.3
+1984-09,Japan,2.7
+1984-09,Canada,11.8
+1984-09,France,10.3
+1984-09,United Kingdom,11.0
+1984-10,Italy,7.8
+1984-10,France,10.4
+1984-10,United States,7.4
+1984-10,United Kingdom,11.0
+1984-10,Canada,11.3
+1984-10,Japan,2.7
+1984-11,United Kingdom,11.1
+1984-11,Italy,7.8
+1984-11,United States,7.2
+1984-11,Canada,11.4
+1984-11,Japan,2.7
+1984-11,France,10.4
+1984-12,United States,7.3
+1984-12,Canada,11.1
+1984-12,United Kingdom,11.1
+1984-12,France,10.5
+1984-12,Japan,2.6
+1984-12,Italy,7.9
+1985-01,United States,7.3
+1985-01,France,10.4
+1985-01,Japan,2.5
+1985-01,Canada,10.6
+1985-01,United Kingdom,11.2
+1985-01,Italy,8.0
+1985-02,France,10.4
+1985-02,Canada,10.8
+1985-02,Italy,8.0
+1985-02,United Kingdom,11.2
+1985-02,Japan,2.6
+1985-02,United States,7.2
+1985-03,Italy,8.0
+1985-03,Japan,2.6
+1985-03,United Kingdom,11.2
+1985-03,France,10.4
+1985-03,Canada,11.0
+1985-03,United States,7.2
+1985-04,Japan,2.5
+1985-04,Italy,8.0
+1985-04,United Kingdom,11.3
+1985-04,France,10.4
+1985-04,United States,7.3
+1985-04,Canada,10.8
+1985-05,Japan,2.6
+1985-05,France,10.4
+1985-05,Italy,8.0
+1985-05,United States,7.2
+1985-05,United Kingdom,11.3
+1985-05,Canada,10.6
+1985-06,Japan,2.6
+1985-06,United Kingdom,11.2
+1985-06,Canada,10.7
+1985-06,United States,7.4
+1985-06,Italy,8.1
+1985-06,France,10.4
+1985-07,France,10.4
+1985-07,United Kingdom,11.2
+1985-07,Canada,10.4
+1985-07,Italy,8.2
+1985-07,Japan,2.6
+1985-07,United States,7.4
+1985-08,United Kingdom,11.2
+1985-08,Italy,8.2
+1985-08,United States,7.1
+1985-08,Canada,10.3
+1985-08,France,10.4
+1985-08,Japan,2.5
+1985-09,United States,7.1
+1985-09,Japan,2.7
+1985-09,Canada,10.2
+1985-09,United Kingdom,11.2
+1985-09,France,10.4
+1985-09,Italy,8.3
+1985-10,United Kingdom,11.2
+1985-10,France,10.4
+1985-10,Italy,8.3
+1985-10,Canada,10.3
+1985-10,Japan,2.7
+1985-10,United States,7.1
+1985-11,Canada,10.3
+1985-11,Japan,2.8
+1985-11,United States,7.0
+1985-11,United Kingdom,11.1
+1985-11,France,10.5
+1985-11,Italy,8.4
+1985-12,United States,7.0
+1985-12,France,10.5
+1985-12,Italy,8.5
+1985-12,Canada,10.1
+1985-12,United Kingdom,11.2
+1985-12,Japan,2.8
+1986-01,France,10.4
+1986-01,Japan,2.7
+1986-01,Canada,9.8
+1986-01,United States,6.7
+1986-01,United Kingdom,11.2
+1986-01,Italy,8.5
+1986-02,Japan,2.6
+1986-02,Canada,9.9
+1986-02,United Kingdom,11.1
+1986-02,France,10.3
+1986-02,United States,7.2
+1986-02,Italy,8.6
+1986-03,Japan,2.7
+1986-03,Canada,9.8
+1986-03,United States,7.2
+1986-03,France,10.4
+1986-03,United Kingdom,11.2
+1986-03,Italy,8.6
+1986-04,Canada,9.7
+1986-04,Italy,8.7
+1986-04,Japan,2.8
+1986-04,United States,7.1
+1986-04,United Kingdom,11.3
+1986-04,France,10.4
+1986-05,United States,7.2
+1986-05,United Kingdom,11.3
+1986-05,Canada,9.5
+1986-05,France,10.5
+1986-05,Italy,8.8
+1986-05,Japan,2.7
+1986-06,United States,7.2
+1986-06,United Kingdom,11.3
+1986-06,France,10.5
+1986-06,Canada,9.6
+1986-06,Japan,2.8
+1986-06,Italy,8.8
+1986-07,France,10.6
+1986-07,Japan,2.9
+1986-07,Canada,9.6
+1986-07,United States,7.0
+1986-07,United Kingdom,11.3
+1986-07,Italy,8.9
+1986-08,Japan,2.8
+1986-08,Italy,9.0
+1986-08,United Kingdom,11.3
+1986-08,United States,6.9
+1986-08,France,10.6
+1986-08,Canada,9.6
+1986-09,United States,7.0
+1986-09,France,10.7
+1986-09,Italy,9.1
+1986-09,Japan,2.8
+1986-09,Canada,9.5
+1986-09,United Kingdom,11.3
+1986-10,United Kingdom,11.2
+1986-10,United States,7.0
+1986-10,Italy,9.1
+1986-10,France,10.8
+1986-10,Canada,9.4
+1986-10,Japan,2.7
+1986-11,Canada,9.4
+1986-11,Japan,2.8
+1986-11,United States,6.9
+1986-11,France,10.8
+1986-11,United Kingdom,11.2
+1986-11,Italy,9.1
+1986-12,Italy,9.2
+1986-12,Canada,9.5
+1986-12,United Kingdom,11.2
+1986-12,United States,6.6
+1986-12,Japan,2.9
+1986-12,France,10.9
+1987-01,France,10.8
+1987-01,Italy,9.2
+1987-01,United Kingdom,11.1
+1987-01,Canada,9.5
+1987-01,United States,6.6
+1987-01,Japan,3.0
+1987-02,United States,6.6
+1987-02,Canada,9.5
+1987-02,Japan,2.9
+1987-02,United Kingdom,11.0
+1987-02,France,10.8
+1987-02,Italy,9.3
+1987-03,United States,6.6
+1987-03,Canada,9.4
+1987-03,Japan,2.9
+1987-03,France,10.8
+1987-03,United Kingdom,10.9
+1987-03,Italy,9.3
+1987-04,Japan,2.9
+1987-04,United States,6.3
+1987-04,Canada,9.2
+1987-04,Italy,9.4
+1987-04,France,10.7
+1987-04,United Kingdom,10.8
+1987-05,Canada,8.9
+1987-05,Japan,3.1
+1987-05,France,10.7
+1987-05,Italy,9.7
+1987-05,United States,6.3
+1987-05,United Kingdom,10.6
+1987-06,Canada,8.9
+1987-06,United Kingdom,10.5
+1987-06,United States,6.2
+1987-06,France,10.6
+1987-06,Italy,9.9
+1987-06,Japan,3.0
+1987-07,United States,6.1
+1987-07,United Kingdom,10.3
+1987-07,Canada,8.7
+1987-07,France,10.6
+1987-07,Italy,9.8
+1987-07,Japan,2.8
+1987-08,United Kingdom,10.1
+1987-08,Canada,8.6
+1987-08,Italy,9.8
+1987-08,France,10.6
+1987-08,United States,6.0
+1987-08,Japan,2.8
+1987-09,Canada,8.4
+1987-09,Japan,2.7
+1987-09,United States,5.9
+1987-09,France,10.5
+1987-09,Italy,9.8
+1987-09,United Kingdom,10.0
+1987-10,Japan,2.7
+1987-10,Canada,8.3
+1987-10,France,10.5
+1987-10,United Kingdom,9.8
+1987-10,United States,6.0
+1987-10,Italy,9.8
+1987-11,United Kingdom,9.6
+1987-11,Japan,2.7
+1987-11,Canada,8.2
+1987-11,Italy,9.7
+1987-11,France,10.5
+1987-11,United States,5.8
+1987-12,Canada,8.0
+1987-12,Japan,2.7
+1987-12,United States,5.7
+1987-12,France,10.5
+1987-12,Italy,9.7
+1987-12,United Kingdom,9.4
+1988-01,United States,5.7
+1988-01,Italy,9.7
+1988-01,France,10.3
+1988-01,Canada,8.1
+1988-01,United Kingdom,9.2
+1988-01,Japan,2.7
+1988-02,Italy,9.7
+1988-02,France,10.3
+1988-02,United Kingdom,9.1
+1988-02,Japan,2.7
+1988-02,Canada,7.8
+1988-02,United States,5.7
+1988-03,Italy,9.7
+1988-03,United States,5.7
+1988-03,United Kingdom,8.9
+1988-03,France,10.2
+1988-03,Japan,2.6
+1988-03,Canada,7.8
+1988-04,Canada,7.7
+1988-04,United States,5.4
+1988-04,Italy,9.7
+1988-04,France,10.2
+1988-04,United Kingdom,8.8
+1988-04,Japan,2.5
+1988-05,Canada,7.8
+1988-05,United Kingdom,8.7
+1988-05,Italy,9.6
+1988-05,United States,5.6
+1988-05,Japan,2.5
+1988-05,France,10.1
+1988-06,United States,5.4
+1988-06,Canada,7.6
+1988-06,France,10.1
+1988-06,Italy,9.6
+1988-06,Japan,2.4
+1988-06,United Kingdom,8.5
+1988-07,Japan,2.5
+1988-07,Canada,7.8
+1988-07,France,10.0
+1988-07,United States,5.4
+1988-07,United Kingdom,8.4
+1988-07,Italy,9.6
+1988-08,United States,5.6
+1988-08,United Kingdom,8.3
+1988-08,France,10.0
+1988-08,Japan,2.6
+1988-08,Canada,7.8
+1988-08,Italy,9.6
+1988-09,United Kingdom,8.4
+1988-09,France,10.0
+1988-09,Japan,2.5
+1988-09,Italy,9.6
+1988-09,United States,5.4
+1988-09,Canada,7.8
+1988-10,United States,5.4
+1988-10,France,9.9
+1988-10,United Kingdom,8.0
+1988-10,Canada,7.8
+1988-10,Japan,2.4
+1988-10,Italy,9.8
+1988-11,France,9.9
+1988-11,Italy,9.8
+1988-11,United Kingdom,7.9
+1988-11,Canada,7.8
+1988-11,Japan,2.4
+1988-11,United States,5.3
+1988-12,United States,5.3
+1988-12,Italy,9.8
+1988-12,France,9.9
+1988-12,Canada,7.5
+1988-12,Japan,2.4
+1988-12,United Kingdom,7.7
+1989-01,France,9.8
+1989-01,United Kingdom,7.6
+1989-01,Italy,9.8
+1989-01,Canada,7.5
+1989-01,United States,5.4
+1989-01,Japan,2.3
+1989-02,Japan,2.3
+1989-02,United Kingdom,7.5
+1989-02,France,9.7
+1989-02,United States,5.2
+1989-02,Canada,7.6
+1989-02,Italy,9.8
+1989-03,Japan,2.4
+1989-03,United Kingdom,7.4
+1989-03,Italy,9.8
+1989-03,France,9.7
+1989-03,Canada,7.5
+1989-03,United States,5.0
+1989-04,United States,5.2
+1989-04,United Kingdom,7.2
+1989-04,Italy,9.8
+1989-04,Canada,7.8
+1989-04,France,9.7
+1989-04,Japan,2.4
+1989-05,France,9.7
+1989-05,United Kingdom,7.1
+1989-05,Japan,2.3
+1989-05,Canada,7.7
+1989-05,Italy,9.8
+1989-05,United States,5.2
+1989-06,France,9.6
+1989-06,United Kingdom,7.0
+1989-06,Canada,7.5
+1989-06,Italy,9.8
+1989-06,United States,5.3
+1989-06,Japan,2.2
+1989-07,Italy,9.8
+1989-07,United States,5.2
+1989-07,France,9.6
+1989-07,United Kingdom,7.0
+1989-07,Canada,7.5
+1989-07,Japan,2.2
+1989-08,Japan,2.2
+1989-08,United Kingdom,7.0
+1989-08,Canada,7.3
+1989-08,Italy,9.7
+1989-08,United States,5.2
+1989-08,France,9.6
+1989-09,Italy,9.6
+1989-09,United States,5.3
+1989-09,France,9.6
+1989-09,Canada,7.3
+1989-09,Japan,2.2
+1989-09,United Kingdom,6.9
+1989-10,Canada,7.2
+1989-10,Italy,9.4
+1989-10,United Kingdom,6.8
+1989-10,United States,5.3
+1989-10,France,9.6
+1989-10,Japan,2.2
+1989-11,United States,5.4
+1989-11,United Kingdom,6.8
+1989-11,France,9.6
+1989-11,Japan,2.2
+1989-11,Italy,9.4
+1989-11,Canada,7.5
+1989-12,United States,5.4
+1989-12,France,9.6
+1989-12,Canada,7.7
+1989-12,Japan,2.1
+1989-12,Italy,9.3
+1989-12,United Kingdom,6.8
+1990-01,Canada,7.9
+1990-01,Italy,9.1
+1990-01,France,9.5
+1990-01,United States,5.4
+1990-01,Japan,2.2
+1990-01,United Kingdom,6.8
+1990-02,France,9.5
+1990-02,United States,5.3
+1990-02,Canada,7.7
+1990-02,Japan,2.2
+1990-02,United Kingdom,6.8
+1990-02,Italy,9.0
+1990-03,Italy,8.9
+1990-03,United Kingdom,6.7
+1990-03,France,9.5
+1990-03,Canada,7.3
+1990-03,United States,5.2
+1990-03,Japan,2.0
+1990-04,United Kingdom,6.8
+1990-04,Canada,7.6
+1990-04,France,9.4
+1990-04,Japan,2.1
+1990-04,United States,5.4
+1990-04,Italy,8.9
+1990-05,France,9.4
+1990-05,Canada,7.8
+1990-05,Japan,2.1
+1990-05,United States,5.4
+1990-05,Italy,8.9
+1990-05,United Kingdom,6.7
+1990-06,United States,5.2
+1990-06,Canada,7.6
+1990-06,Italy,8.9
+1990-06,France,9.4
+1990-06,Japan,2.2
+1990-06,United Kingdom,6.7
+1990-07,United States,5.5
+1990-07,Italy,8.8
+1990-07,France,9.3
+1990-07,United Kingdom,6.8
+1990-07,Japan,2.1
+1990-07,Canada,7.9
+1990-08,Japan,2.0
+1990-08,United Kingdom,6.8
+1990-08,France,9.3
+1990-08,United States,5.7
+1990-08,Italy,8.8
+1990-08,Canada,8.1
+1990-09,Canada,8.5
+1990-09,United Kingdom,6.9
+1990-09,Japan,2.1
+1990-09,Italy,8.8
+1990-09,United States,5.9
+1990-09,France,9.3
+1990-10,United Kingdom,7.0
+1990-10,Italy,8.8
+1990-10,France,9.3
+1990-10,United States,5.9
+1990-10,Japan,2.2
+1990-10,Canada,8.8
+1990-11,Canada,9.1
+1990-11,United Kingdom,7.1
+1990-11,Italy,8.7
+1990-11,France,9.3
+1990-11,Japan,2.0
+1990-11,United States,6.2
+1990-12,Italy,8.7
+1990-12,France,9.3
+1990-12,Canada,9.5
+1990-12,Japan,2.0
+1990-12,United States,6.3
+1990-12,United Kingdom,7.4
+1991-01,Germany,5.2
+1991-01,United States,6.4
+1991-01,France,9.2
+1991-01,Italy,8.7
+1991-01,Canada,9.8
+1991-01,United Kingdom,7.5
+1991-01,Japan,2.0
+1991-02,United States,6.6
+1991-02,Italy,8.6
+1991-02,Canada,10.2
+1991-02,United Kingdom,7.7
+1991-02,Japan,2.1
+1991-02,France,9.3
+1991-02,Germany,5.2
+1991-03,Germany,5.3
+1991-03,Japan,2.2
+1991-03,United States,6.8
+1991-03,Canada,10.5
+1991-03,United Kingdom,8.1
+1991-03,France,9.3
+1991-03,Italy,8.6
+1991-04,United States,6.7
+1991-04,Canada,10.3
+1991-04,United Kingdom,8.3
+1991-04,Germany,5.3
+1991-04,Italy,8.5
+1991-04,France,9.4
+1991-04,Japan,2.1
+1991-05,France,9.4
+1991-05,Germany,5.3
+1991-05,United Kingdom,8.5
+1991-05,Japan,2.1
+1991-05,Italy,8.5
+1991-05,United States,6.9
+1991-05,Canada,10.2
+1991-06,Germany,5.4
+1991-06,United Kingdom,8.6
+1991-06,Japan,2.1
+1991-06,Canada,10.5
+1991-06,Italy,8.4
+1991-06,France,9.5
+1991-06,United States,6.9
+1991-07,Italy,8.4
+1991-07,Japan,2.1
+1991-07,France,9.6
+1991-07,United States,6.8
+1991-07,United Kingdom,8.8
+1991-07,Germany,5.5
+1991-07,Canada,10.5
+1991-08,United States,6.9
+1991-08,Italy,8.4
+1991-08,France,9.7
+1991-08,Germany,5.6
+1991-08,United Kingdom,9.0
+1991-08,Canada,10.5
+1991-08,Japan,2.1
+1991-09,Japan,2.1
+1991-09,United Kingdom,9.0
+1991-09,United States,6.9
+1991-09,France,9.8
+1991-09,Canada,10.3
+1991-09,Germany,5.7
+1991-09,Italy,8.5
+1991-10,United Kingdom,9.0
+1991-10,Italy,8.5
+1991-10,Japan,2.0
+1991-10,Germany,5.8
+1991-10,France,9.9
+1991-10,United States,7.0
+1991-10,Canada,10.3
+1991-11,Germany,5.9
+1991-11,United States,7.0
+1991-11,United Kingdom,9.1
+1991-11,Japan,2.1
+1991-11,France,10.0
+1991-11,Italy,8.7
+1991-11,Canada,10.4
+1991-12,France,10.1
+1991-12,United Kingdom,9.2
+1991-12,Italy,8.6
+1991-12,Germany,6.0
+1991-12,Japan,2.1
+1991-12,United States,7.3
+1991-12,Canada,10.3
+1992-01,Italy,8.6
+1992-01,United Kingdom,9.3
+1992-01,France,10.2
+1992-01,Japan,2.1
+1992-01,Canada,10.4
+1992-01,United States,7.3
+1992-01,Germany,6.0
+1992-02,United Kingdom,9.3
+1992-02,France,10.3
+1992-02,United States,7.4
+1992-02,Italy,8.7
+1992-02,Japan,2.0
+1992-02,Germany,6.1
+1992-02,Canada,10.5
+1992-03,United Kingdom,9.3
+1992-03,Germany,6.2
+1992-03,United States,7.4
+1992-03,Italy,8.7
+1992-03,France,10.3
+1992-03,Canada,10.9
+1992-03,Japan,2.1
+1992-04,United Kingdom,9.8
+1992-04,Italy,8.7
+1992-04,United States,7.4
+1992-04,Canada,10.7
+1992-04,Japan,2.1
+1992-04,Germany,6.3
+1992-04,France,10.4
+1992-05,France,10.5
+1992-05,Japan,2.1
+1992-05,United States,7.6
+1992-05,United Kingdom,9.8
+1992-05,Germany,6.4
+1992-05,Italy,8.6
+1992-05,Canada,10.9
+1992-06,United States,7.8
+1992-06,France,10.6
+1992-06,United Kingdom,9.9
+1992-06,Italy,8.7
+1992-06,Canada,11.4
+1992-06,Germany,6.5
+1992-06,Japan,2.1
+1992-07,United Kingdom,9.9
+1992-07,France,10.7
+1992-07,Canada,11.3
+1992-07,Japan,2.1
+1992-07,Italy,8.9
+1992-07,United States,7.7
+1992-07,Germany,6.6
+1992-08,France,10.8
+1992-08,United Kingdom,9.9
+1992-08,Italy,9.0
+1992-08,United States,7.6
+1992-08,Japan,2.2
+1992-08,Germany,6.8
+1992-08,Canada,11.7
+1992-09,Germany,6.9
+1992-09,United States,7.6
+1992-09,United Kingdom,10.1
+1992-09,Japan,2.2
+1992-09,Italy,9.1
+1992-09,France,10.9
+1992-09,Canada,11.6
+1992-10,Canada,11.4
+1992-10,United States,7.3
+1992-10,Japan,2.2
+1992-10,United Kingdom,10.2
+1992-10,Italy,8.9
+1992-10,France,10.9
+1992-10,Germany,7.0
+1992-11,United States,7.4
+1992-11,Japan,2.3
+1992-11,Germany,7.1
+1992-11,Italy,8.9
+1992-11,United Kingdom,10.4
+1992-11,Canada,12.1
+1992-11,France,11.0
+1992-12,Germany,7.2
+1992-12,France,11.1
+1992-12,Italy,8.9
+1992-12,United States,7.4
+1992-12,Japan,2.3
+1992-12,United Kingdom,10.5
+1992-12,Canada,11.7
+1993-01,Canada,11.2
+1993-01,United States,7.3
+1993-01,Italy,9.0
+1993-01,Germany,7.3
+1993-01,France,11.2
+1993-01,Japan,2.3
+1993-01,United Kingdom,10.7
+1993-02,Japan,2.3
+1993-02,Canada,11.0
+1993-02,France,11.3
+1993-02,United States,7.1
+1993-02,Germany,7.4
+1993-02,United Kingdom,10.6
+1993-02,Italy,9.1
+1993-03,United States,7.0
+1993-03,United Kingdom,10.6
+1993-03,Canada,11.2
+1993-03,France,11.4
+1993-03,Italy,9.3
+1993-03,Japan,2.3
+1993-03,Germany,7.5
+1993-04,Italy,9.7
+1993-04,France,11.6
+1993-04,United States,7.1
+1993-04,Canada,11.6
+1993-04,Japan,2.3
+1993-04,United Kingdom,10.5
+1993-04,Germany,7.5
+1993-05,Canada,11.6
+1993-05,Japan,2.5
+1993-05,United States,7.1
+1993-05,United Kingdom,10.4
+1993-05,Germany,7.6
+1993-05,France,11.7
+1993-05,Italy,9.8
+1993-06,Italy,9.9
+1993-06,France,11.8
+1993-06,Germany,7.7
+1993-06,United Kingdom,10.4
+1993-06,Canada,11.7
+1993-06,Japan,2.5
+1993-06,United States,7.0
+1993-07,Canada,11.6
+1993-07,Germany,7.8
+1993-07,United States,6.9
+1993-07,United Kingdom,10.3
+1993-07,Japan,2.5
+1993-07,France,11.9
+1993-07,Italy,9.9
+1993-08,United Kingdom,10.2
+1993-08,United States,6.8
+1993-08,Japan,2.5
+1993-08,Germany,7.9
+1993-08,Canada,11.2
+1993-08,France,12.0
+1993-08,Italy,10.0
+1993-09,Italy,10.0
+1993-09,France,12.2
+1993-09,United States,6.7
+1993-09,Canada,11.5
+1993-09,Japan,2.6
+1993-09,United Kingdom,10.3
+1993-09,Germany,8.0
+1993-10,Japan,2.7
+1993-10,United Kingdom,10.2
+1993-10,France,12.3
+1993-10,Canada,11.3
+1993-10,Italy,10.4
+1993-10,United States,6.8
+1993-10,Germany,8.1
+1993-11,United Kingdom,10.3
+1993-11,Canada,11.2
+1993-11,Japan,2.7
+1993-11,Germany,8.2
+1993-11,United States,6.6
+1993-11,France,12.4
+1993-11,Italy,10.4
+1993-12,Germany,8.3
+1993-12,United Kingdom,10.3
+1993-12,Italy,10.5
+1993-12,France,12.4
+1993-12,Japan,2.8
+1993-12,Canada,11.4
+1993-12,United States,6.5
+1994-01,Canada,11.4
+1994-01,France,12.5
+1994-01,United States,6.6
+1994-01,United Kingdom,10.1
+1994-01,Germany,8.4
+1994-01,Italy,10.4
+1994-01,Japan,2.8
+1994-02,Italy,10.4
+1994-02,Japan,2.9
+1994-02,Germany,8.5
+1994-02,United Kingdom,9.9
+1994-02,Canada,11.1
+1994-02,France,12.5
+1994-02,United States,6.6
+1994-03,United Kingdom,9.8
+1994-03,Japan,2.9
+1994-03,France,12.5
+1994-03,Germany,8.5
+1994-03,Canada,10.6
+1994-03,United States,6.5
+1994-03,Italy,10.5
+1994-04,United States,6.4
+1994-04,Germany,8.6
+1994-04,Italy,10.5
+1994-04,Canada,10.9
+1994-04,Japan,2.8
+1994-04,United Kingdom,9.7
+1994-04,France,12.5
+1994-05,United States,6.1
+1994-05,Japan,2.8
+1994-05,France,12.4
+1994-05,Germany,8.5
+1994-05,Italy,10.6
+1994-05,Canada,10.7
+1994-05,United Kingdom,9.7
+1994-06,Canada,10.3
+1994-06,France,12.3
+1994-06,Italy,10.6
+1994-06,United States,6.1
+1994-06,Germany,8.5
+1994-06,Japan,2.8
+1994-06,United Kingdom,9.6
+1994-07,Canada,10.1
+1994-07,Italy,10.4
+1994-07,United Kingdom,9.5
+1994-07,Germany,8.5
+1994-07,United States,6.1
+1994-07,Japan,2.9
+1994-07,France,12.3
+1994-08,Italy,10.4
+1994-08,Canada,10.2
+1994-08,France,12.2
+1994-08,United Kingdom,9.4
+1994-08,Japan,3.0
+1994-08,Germany,8.4
+1994-08,United States,6.0
+1994-09,Japan,3.0
+1994-09,United States,5.9
+1994-09,United Kingdom,9.3
+1994-09,Italy,10.4
+1994-09,France,12.1
+1994-09,Germany,8.4
+1994-09,Canada,10.1
+1994-10,France,12.1
+1994-10,Italy,11.1
+1994-10,Japan,3.0
+1994-10,United States,5.8
+1994-10,United Kingdom,9.1
+1994-10,Germany,8.3
+1994-10,Canada,10.0
+1994-11,France,12.0
+1994-11,Germany,8.3
+1994-11,United States,5.6
+1994-11,Japan,2.9
+1994-11,Canada,9.7
+1994-11,Italy,11.1
+1994-11,United Kingdom,9.0
+1994-12,Canada,9.6
+1994-12,France,11.9
+1994-12,United States,5.5
+1994-12,Italy,11.2
+1994-12,Japan,2.9
+1994-12,United Kingdom,8.9
+1994-12,Germany,8.2
+1995-01,France,11.8
+1995-01,Germany,8.2
+1995-01,United Kingdom,8.9
+1995-01,Italy,11.2
+1995-01,Japan,3.0
+1995-01,United States,5.6
+1995-01,Canada,9.6
+1995-02,Germany,8.1
+1995-02,United Kingdom,8.9
+1995-02,Japan,3.0
+1995-02,Canada,9.6
+1995-02,Italy,11.2
+1995-02,United States,5.4
+1995-02,France,11.8
+1995-03,Italy,11.3
+1995-03,France,11.8
+1995-03,Canada,9.7
+1995-03,United Kingdom,8.8
+1995-03,Germany,8.1
+1995-03,Japan,3.1
+1995-03,United States,5.4
+1995-04,Canada,9.5
+1995-04,United Kingdom,8.8
+1995-04,France,11.8
+1995-04,Italy,11.1
+1995-04,Germany,8.1
+1995-04,Japan,3.1
+1995-04,United States,5.8
+1995-05,United Kingdom,8.7
+1995-05,Japan,3.0
+1995-05,France,11.9
+1995-05,Italy,11.1
+1995-05,United States,5.6
+1995-05,Germany,8.1
+1995-05,Canada,9.5
+1995-06,Italy,11.1
+1995-06,United Kingdom,8.7
+1995-06,United States,5.6
+1995-06,Germany,8.1
+1995-06,Canada,9.5
+1995-06,Japan,3.1
+1995-06,France,11.9
+1995-07,United Kingdom,8.6
+1995-07,Canada,9.6
+1995-07,Germany,8.2
+1995-07,France,11.9
+1995-07,Italy,11.1
+1995-07,Japan,3.1
+1995-07,United States,5.7
+1995-08,Japan,3.2
+1995-08,Italy,11.2
+1995-08,United Kingdom,8.6
+1995-08,France,12.0
+1995-08,Canada,9.5
+1995-08,Germany,8.3
+1995-08,United States,5.7
+1995-09,Canada,9.2
+1995-09,United Kingdom,8.6
+1995-09,Japan,3.2
+1995-09,Germany,8.3
+1995-09,United States,5.6
+1995-09,Italy,11.2
+1995-09,France,12.1
+1995-10,United States,5.5
+1995-10,Canada,9.3
+1995-10,France,12.1
+1995-10,Germany,8.4
+1995-10,Japan,3.2
+1995-10,United Kingdom,8.6
+1995-10,Italy,11.1
+1995-11,Canada,9.2
+1995-11,United Kingdom,8.3
+1995-11,Japan,3.4
+1995-11,Germany,8.4
+1995-11,France,12.2
+1995-11,United States,5.6
+1995-11,Italy,11.1
+1995-12,Japan,3.4
+1995-12,United Kingdom,8.4
+1995-12,United States,5.6
+1995-12,Italy,11.1
+1995-12,Germany,8.5
+1995-12,France,12.2
+1995-12,Canada,9.4
+1996-01,United States,5.6
+1996-01,Canada,9.4
+1996-01,France,12.3
+1996-01,Germany,8.5
+1996-01,Italy,11.0
+1996-01,United Kingdom,8.3
+1996-01,Japan,3.5
+1996-02,United Kingdom,8.2
+1996-02,Germany,8.6
+1996-02,Canada,9.5
+1996-02,Italy,11.0
+1996-02,France,12.3
+1996-02,United States,5.5
+1996-02,Japan,3.4
+1996-03,Japan,3.2
+1996-03,France,12.3
+1996-03,United States,5.5
+1996-03,Canada,9.6
+1996-03,Germany,8.6
+1996-03,United Kingdom,8.3
+1996-03,Italy,11.0
+1996-04,Italy,11.3
+1996-04,Germany,8.7
+1996-04,Canada,9.3
+1996-04,United States,5.6
+1996-04,Japan,3.4
+1996-04,United Kingdom,8.3
+1996-04,France,12.3
+1996-05,Canada,9.2
+1996-05,United States,5.6
+1996-05,United Kingdom,8.3
+1996-05,France,12.4
+1996-05,Japan,3.4
+1996-05,Germany,8.8
+1996-05,Italy,11.3
+1996-06,Japan,3.4
+1996-06,Germany,8.8
+1996-06,United Kingdom,8.2
+1996-06,United States,5.3
+1996-06,Canada,9.8
+1996-06,Italy,11.3
+1996-06,France,12.4
+1996-07,United Kingdom,8.1
+1996-07,France,12.4
+1996-07,Italy,11.1
+1996-07,Canada,9.7
+1996-07,United States,5.5
+1996-07,Germany,8.9
+1996-07,Japan,3.4
+1996-08,United Kingdom,8.1
+1996-08,United States,5.1
+1996-08,Germany,9.0
+1996-08,Italy,11.1
+1996-08,Canada,9.4
+1996-08,France,12.4
+1996-08,Japan,3.3
+1996-09,Germany,9.1
+1996-09,Canada,9.9
+1996-09,France,12.5
+1996-09,Japan,3.3
+1996-09,Italy,11.1
+1996-09,United Kingdom,8.1
+1996-09,United States,5.2
+1996-10,Germany,9.2
+1996-10,Italy,11.2
+1996-10,Canada,9.9
+1996-10,United Kingdom,8.0
+1996-10,Japan,3.4
+1996-10,United States,5.2
+1996-10,France,12.5
+1996-11,Germany,9.3
+1996-11,Japan,3.3
+1996-11,United States,5.4
+1996-11,Italy,11.2
+1996-11,France,12.5
+1996-11,United Kingdom,7.8
+1996-11,Canada,9.9
+1996-12,Italy,11.2
+1996-12,France,12.5
+1996-12,Germany,9.4
+1996-12,United States,5.4
+1996-12,United Kingdom,7.7
+1996-12,Canada,9.7
+1996-12,Japan,3.4
+1997-01,Germany,9.5
+1997-01,France,12.5
+1997-01,Canada,9.5
+1997-01,Italy,11.2
+1997-01,Japan,3.3
+1997-01,United Kingdom,7.5
+1997-01,United States,5.3
+1997-02,Germany,9.5
+1997-02,Canada,9.5
+1997-02,France,12.5
+1997-02,Japan,3.4
+1997-02,Italy,11.3
+1997-02,United Kingdom,7.3
+1997-02,United States,5.2
+1997-03,United States,5.2
+1997-03,Canada,9.3
+1997-03,Italy,11.3
+1997-03,Japan,3.3
+1997-03,Germany,9.6
+1997-03,France,12.5
+1997-03,United Kingdom,7.2
+1997-04,Japan,3.2
+1997-04,France,12.4
+1997-04,Canada,9.4
+1997-04,Germany,9.7
+1997-04,Italy,11.4
+1997-04,United States,5.1
+1997-04,United Kingdom,7.2
+1997-05,Italy,11.4
+1997-05,France,12.4
+1997-05,Germany,9.7
+1997-05,Japan,3.4
+1997-05,Canada,9.4
+1997-05,United Kingdom,7.2
+1997-05,United States,4.9
+1997-06,Canada,9.1
+1997-06,Japan,3.4
+1997-06,Italy,11.4
+1997-06,United Kingdom,7.3
+1997-06,France,12.4
+1997-06,United States,5.0
+1997-06,Germany,9.7
+1997-07,France,12.4
+1997-07,Japan,3.4
+1997-07,Italy,11.0
+1997-07,Canada,8.9
+1997-07,United States,4.9
+1997-07,Germany,9.7
+1997-07,United Kingdom,7.1
+1997-08,Japan,3.4
+1997-08,Italy,11.0
+1997-08,Germany,9.7
+1997-08,United States,4.8
+1997-08,France,12.3
+1997-08,Canada,8.9
+1997-08,United Kingdom,6.8
+1997-09,France,12.3
+1997-09,Japan,3.5
+1997-09,United States,4.9
+1997-09,Germany,9.7
+1997-09,Canada,8.8
+1997-09,Italy,11.0
+1997-09,United Kingdom,6.7
+1997-10,Canada,8.9
+1997-10,United Kingdom,6.6
+1997-10,Germany,9.7
+1997-10,Japan,3.5
+1997-10,France,12.2
+1997-10,Italy,11.3
+1997-10,United States,4.7
+1997-11,United Kingdom,6.5
+1997-11,Germany,9.7
+1997-11,Canada,8.9
+1997-11,Italy,11.3
+1997-11,United States,4.6
+1997-11,France,12.2
+1997-11,Japan,3.5
+1997-12,Germany,9.7
+1997-12,France,12.1
+1997-12,Italy,11.3
+1997-12,United States,4.7
+1997-12,Japan,3.5
+1997-12,Canada,8.5
+1997-12,United Kingdom,6.4
+1998-01,Italy,11.1
+1998-01,Germany,9.7
+1998-01,United States,4.6
+1998-01,United Kingdom,6.4
+1998-01,France,12.1
+1998-01,Japan,3.6
+1998-01,Canada,8.8
+1998-02,Canada,8.6
+1998-02,Italy,11.1
+1998-02,United Kingdom,6.4
+1998-02,Japan,3.6
+1998-02,Germany,9.7
+1998-02,United States,4.6
+1998-02,France,12.0
+1998-03,Italy,11.1
+1998-03,United States,4.7
+1998-03,United Kingdom,6.3
+1998-03,Canada,8.4
+1998-03,Germany,9.6
+1998-03,Japan,3.8
+1998-03,France,12.0
+1998-04,Italy,11.5
+1998-04,Canada,8.3
+1998-04,United Kingdom,6.3
+1998-04,Germany,9.6
+1998-04,France,12.0
+1998-04,Japan,4.0
+1998-04,United States,4.3
+1998-05,United Kingdom,6.3
+1998-05,France,12.1
+1998-05,United States,4.4
+1998-05,Japan,4.1
+1998-05,Germany,9.5
+1998-05,Italy,11.5
+1998-05,Canada,8.3
+1998-06,United States,4.5
+1998-06,Germany,9.4
+1998-06,United Kingdom,6.3
+1998-06,Italy,11.5
+1998-06,Japan,4.1
+1998-06,France,12.1
+1998-06,Canada,8.4
+1998-07,United States,4.5
+1998-07,United Kingdom,6.3
+1998-07,Germany,9.4
+1998-07,France,12.1
+1998-07,Canada,8.3
+1998-07,Japan,4.1
+1998-07,Italy,11.3
+1998-08,Japan,4.4
+1998-08,Canada,8.1
+1998-08,Italy,11.3
+1998-08,United States,4.5
+1998-08,Germany,9.3
+1998-08,United Kingdom,6.2
+1998-08,France,12.1
+1998-09,United States,4.6
+1998-09,Japan,4.3
+1998-09,United Kingdom,6.2
+1998-09,Canada,8.2
+1998-09,France,12.1
+1998-09,Germany,9.2
+1998-09,Italy,11.3
+1998-10,United Kingdom,6.2
+1998-10,Japan,4.3
+1998-10,Canada,8.0
+1998-10,Germany,9.1
+1998-10,France,12.0
+1998-10,Italy,11.5
+1998-10,United States,4.5
+1998-11,United Kingdom,6.1
+1998-11,United States,4.4
+1998-11,France,12.0
+1998-11,Canada,8.0
+1998-11,Italy,11.4
+1998-11,Germany,9.1
+1998-11,Japan,4.5
+1998-12,United States,4.4
+1998-12,Italy,11.4
+1998-12,Germany,9.0
+1998-12,United Kingdom,6.2
+1998-12,France,12.0
+1998-12,Canada,8.1
+1998-12,Japan,4.4
+1999-01,Japan,4.5
+1999-01,France,12.0
+1999-01,United States,4.3
+1999-01,Canada,7.9
+1999-01,Italy,11.1
+1999-01,Germany,8.9
+1999-01,United Kingdom,6.2
+1999-02,United States,4.4
+1999-02,Canada,7.9
+1999-02,Italy,11.1
+1999-02,Japan,4.6
+1999-02,Germany,8.8
+1999-02,United Kingdom,6.2
+1999-02,France,12.0
+1999-03,United Kingdom,6.2
+1999-03,Italy,11.1
+1999-03,Japan,4.7
+1999-03,Canada,7.9
+1999-03,United States,4.2
+1999-03,Germany,8.8
+1999-03,France,11.8
+1999-04,Italy,11.1
+1999-04,United States,4.3
+1999-04,United Kingdom,6.1
+1999-04,Germany,8.7
+1999-04,France,11.7
+1999-04,Canada,8.2
+1999-04,Japan,4.7
+1999-05,Japan,4.7
+1999-05,Italy,11.1
+1999-05,United Kingdom,6.0
+1999-05,Germany,8.6
+1999-05,Canada,7.9
+1999-05,France,11.5
+1999-05,United States,4.2
+1999-06,United Kingdom,6.0
+1999-06,France,11.4
+1999-06,United States,4.3
+1999-06,Italy,11.0
+1999-06,Canada,7.6
+1999-06,Japan,4.8
+1999-06,Germany,8.6
+1999-07,France,11.3
+1999-07,United Kingdom,5.9
+1999-07,Italy,11.0
+1999-07,Canada,7.6
+1999-07,Japan,4.8
+1999-07,Germany,8.5
+1999-07,United States,4.3
+1999-08,Canada,7.4
+1999-08,Italy,10.9
+1999-08,Germany,8.5
+1999-08,United States,4.2
+1999-08,Japan,4.7
+1999-08,France,11.1
+1999-08,United Kingdom,5.9
+1999-09,United Kingdom,5.8
+1999-09,Japan,4.6
+1999-09,France,11.0
+1999-09,Italy,10.9
+1999-09,United States,4.2
+1999-09,Canada,7.5
+1999-09,Germany,8.4
+1999-10,United Kingdom,5.8
+1999-10,United States,4.1
+1999-10,France,10.8
+1999-10,Canada,7.2
+1999-10,Germany,8.4
+1999-10,Japan,4.6
+1999-10,Italy,10.7
+1999-11,Germany,8.3
+1999-11,France,10.7
+1999-11,United States,4.1
+1999-11,Japan,4.6
+1999-11,Canada,6.9
+1999-11,Italy,10.7
+1999-11,United Kingdom,5.8
+1999-12,United States,4.0
+1999-12,Italy,10.6
+1999-12,Canada,6.8
+1999-12,Germany,8.2
+1999-12,France,10.5
+1999-12,United Kingdom,5.9
+1999-12,Japan,4.7
+2000-01,Japan,4.7
+2000-01,United States,4.0
+2000-01,France,10.4
+2000-01,United Kingdom,5.8
+2000-01,Canada,6.8
+2000-01,Germany,8.2
+2000-01,Italy,10.6
+2000-02,United Kingdom,5.8
+2000-02,United States,4.1
+2000-02,Italy,10.6
+2000-02,Canada,6.9
+2000-02,Germany,8.1
+2000-02,France,10.2
+2000-02,Japan,4.9
+2000-03,Italy,10.5
+2000-03,Germany,8.1
+2000-03,France,10.1
+2000-03,United States,4.0
+2000-03,United Kingdom,5.7
+2000-03,Japan,4.9
+2000-03,Canada,6.9
+2000-04,Canada,6.7
+2000-04,Germany,8.0
+2000-04,United Kingdom,5.6
+2000-04,Japan,4.8
+2000-04,United States,3.8
+2000-04,France,9.9
+2000-04,Italy,10.3
+2000-05,Canada,6.6
+2000-05,United Kingdom,5.5
+2000-05,Japan,4.6
+2000-05,France,9.7
+2000-05,Germany,8.0
+2000-05,Italy,10.3
+2000-05,United States,4.0
+2000-06,United States,4.0
+2000-06,France,9.5
+2000-06,Canada,6.7
+2000-06,United Kingdom,5.3
+2000-06,Italy,10.2
+2000-06,Germany,8.0
+2000-06,Japan,4.7
+2000-07,Japan,4.7
+2000-07,Italy,10.0
+2000-07,United States,4.0
+2000-07,Germany,7.9
+2000-07,France,9.4
+2000-07,United Kingdom,5.3
+2000-07,Canada,6.8
+2000-08,Germany,7.9
+2000-08,Italy,10.0
+2000-08,France,9.3
+2000-08,Japan,4.6
+2000-08,Canada,7.0
+2000-08,United States,4.1
+2000-08,United Kingdom,5.3
+2000-09,Canada,6.9
+2000-09,Italy,9.9
+2000-09,France,9.1
+2000-09,United States,3.9
+2000-09,Japan,4.7
+2000-09,Germany,7.9
+2000-09,United Kingdom,5.4
+2000-10,United States,3.9
+2000-10,Japan,4.7
+2000-10,France,9.0
+2000-10,United Kingdom,5.3
+2000-10,Canada,7.0
+2000-10,Italy,9.6
+2000-10,Germany,7.8
+2000-11,France,8.9
+2000-11,Canada,6.9
+2000-11,Italy,9.6
+2000-11,Japan,4.7
+2000-11,Germany,7.8
+2000-11,United Kingdom,5.2
+2000-11,United States,3.9
+2000-12,United States,3.9
+2000-12,Japan,4.8
+2000-12,Germany,7.7
+2000-12,United Kingdom,5.2
+2000-12,France,8.8
+2000-12,Italy,9.6
+2000-12,Canada,6.8
+2001-01,United Kingdom,5.2
+2001-01,Japan,4.8
+2001-01,France,8.7
+2001-01,Canada,6.9
+2001-01,United States,4.2
+2001-01,Italy,9.4
+2001-01,Germany,7.7
+2001-02,France,8.7
+2001-02,Italy,9.4
+2001-02,United Kingdom,5.1
+2001-02,Japan,4.7
+2001-02,Germany,7.7
+2001-02,Canada,7.0
+2001-02,United States,4.2
+2001-03,United Kingdom,5.0
+2001-03,Italy,9.3
+2001-03,France,8.7
+2001-03,United States,4.3
+2001-03,Germany,7.6
+2001-03,Canada,7.1
+2001-03,Japan,4.8
+2001-04,Canada,7.1
+2001-04,Japan,4.8
+2001-04,France,8.7
+2001-04,Italy,9.2
+2001-04,United States,4.4
+2001-04,Germany,7.6
+2001-04,United Kingdom,4.9
+2001-05,United Kingdom,5.0
+2001-05,United States,4.3
+2001-05,Italy,9.1
+2001-05,Canada,7.0
+2001-05,France,8.7
+2001-05,Japan,4.9
+2001-05,Germany,7.7
+2001-06,Germany,7.7
+2001-06,United States,4.5
+2001-06,France,8.8
+2001-06,Japan,5.0
+2001-06,Italy,9.1
+2001-06,United Kingdom,5.0
+2001-06,Canada,7.2
+2001-07,Canada,7.1
+2001-07,Japan,5.0
+2001-07,Germany,7.8
+2001-07,United States,4.6
+2001-07,Italy,9.1
+2001-07,France,8.8
+2001-07,United Kingdom,5.1
+2001-08,Italy,9.0
+2001-08,United States,4.9
+2001-08,France,8.8
+2001-08,Japan,5.1
+2001-08,United Kingdom,5.1
+2001-08,Canada,7.2
+2001-08,Germany,7.8
+2001-09,Italy,9.0
+2001-09,Japan,5.3
+2001-09,France,8.8
+2001-09,United Kingdom,5.1
+2001-09,United States,5.0
+2001-09,Germany,7.9
+2001-09,Canada,7.2
+2001-10,France,8.8
+2001-10,Japan,5.3
+2001-10,Canada,7.3
+2001-10,Germany,8.0
+2001-10,Italy,8.9
+2001-10,United States,5.3
+2001-10,United Kingdom,5.1
+2001-11,Canada,7.5
+2001-11,Italy,8.9
+2001-11,United Kingdom,5.2
+2001-11,Japan,5.4
+2001-11,France,8.8
+2001-11,United States,5.5
+2001-11,Germany,8.0
+2001-12,Italy,8.8
+2001-12,France,8.8
+2001-12,Canada,8.1
+2001-12,Japan,5.4
+2001-12,Germany,8.1
+2001-12,United Kingdom,5.2
+2001-12,United States,5.7
+2002-01,Japan,5.2
+2002-01,France,8.8
+2002-01,United Kingdom,5.1
+2002-01,Italy,8.6
+2002-01,Germany,8.1
+2002-01,United States,5.7
+2002-01,Canada,8.0
+2002-02,France,8.8
+2002-02,Japan,5.3
+2002-02,Germany,8.2
+2002-02,Italy,8.5
+2002-02,Canada,7.9
+2002-02,United States,5.7
+2002-02,United Kingdom,5.2
+2002-03,Canada,7.9
+2002-03,Italy,8.5
+2002-03,United States,5.7
+2002-03,Japan,5.3
+2002-03,Germany,8.2
+2002-03,France,8.7
+2002-03,United Kingdom,5.2
+2002-04,United States,5.9
+2002-04,Japan,5.3
+2002-04,United Kingdom,5.2
+2002-04,Italy,8.9
+2002-04,Germany,8.3
+2002-04,Canada,7.7
+2002-04,France,8.7
+2002-05,France,8.6
+2002-05,Italy,8.8
+2002-05,United Kingdom,5.2
+2002-05,United States,5.8
+2002-05,Germany,8.4
+2002-05,Canada,7.8
+2002-05,Japan,5.4
+2002-06,Canada,7.6
+2002-06,France,8.6
+2002-06,Japan,5.5
+2002-06,United Kingdom,5.2
+2002-06,Germany,8.5
+2002-06,United States,5.8
+2002-06,Italy,8.8
+2002-07,Germany,8.6
+2002-07,United States,5.8
+2002-07,Italy,8.6
+2002-07,Japan,5.4
+2002-07,France,8.6
+2002-07,Canada,7.6
+2002-07,United Kingdom,5.2
+2002-08,Japan,5.5
+2002-08,Germany,8.7
+2002-08,United States,5.7
+2002-08,United Kingdom,5.3
+2002-08,France,8.6
+2002-08,Canada,7.4
+2002-08,Italy,8.6
+2002-09,Germany,8.9
+2002-09,Japan,5.4
+2002-09,United States,5.7
+2002-09,Canada,7.6
+2002-09,Italy,8.6
+2002-09,France,8.6
+2002-09,United Kingdom,5.2
+2002-10,Canada,7.6
+2002-10,Italy,8.5
+2002-10,United States,5.7
+2002-10,France,8.6
+2002-10,Germany,9.0
+2002-10,Japan,5.4
+2002-10,United Kingdom,5.2
+2002-11,United States,5.9
+2002-11,Japan,5.2
+2002-11,Canada,7.5
+2002-11,Germany,9.1
+2002-11,United Kingdom,5.1
+2002-11,Italy,8.5
+2002-11,France,8.6
+2002-12,United Kingdom,5.0
+2002-12,Japan,5.4
+2002-12,Canada,7.6
+2002-12,Italy,8.4
+2002-12,United States,6.0
+2002-12,Germany,9.2
+2002-12,France,8.5
+2003-01,Germany,9.4
+2003-01,Japan,5.4
+2003-01,United States,5.8
+2003-01,United Kingdom,5.1
+2003-01,Canada,7.5
+2003-01,France,8.2
+2003-01,Italy,8.8
+2003-02,Canada,7.5
+2003-02,United Kingdom,5.2
+2003-02,United States,5.9
+2003-02,Italy,8.7
+2003-02,Germany,9.5
+2003-02,Japan,5.2
+2003-02,France,8.3
+2003-03,Germany,9.6
+2003-03,Canada,7.4
+2003-03,United States,5.9
+2003-03,Japan,5.4
+2003-03,United Kingdom,5.1
+2003-03,Italy,8.7
+2003-03,France,8.4
+2003-04,United States,6.0
+2003-04,United Kingdom,5.0
+2003-04,Japan,5.5
+2003-04,France,8.5
+2003-04,Canada,7.6
+2003-04,Germany,9.7
+2003-04,Italy,8.4
+2003-05,Germany,9.7
+2003-05,Japan,5.4
+2003-05,Canada,7.8
+2003-05,United Kingdom,4.9
+2003-05,United States,6.1
+2003-05,France,8.5
+2003-05,Italy,8.5
+2003-06,France,8.5
+2003-06,Japan,5.4
+2003-06,Italy,8.5
+2003-06,United States,6.3
+2003-06,United Kingdom,5.1
+2003-06,Germany,9.8
+2003-06,Canada,7.6
+2003-07,France,8.5
+2003-07,United Kingdom,5.1
+2003-07,Italy,8.4
+2003-07,Germany,9.8
+2003-07,United States,6.2
+2003-07,Canada,7.7
+2003-07,Japan,5.2
+2003-08,Japan,5.1
+2003-08,United States,6.1
+2003-08,France,8.3
+2003-08,United Kingdom,5.0
+2003-08,Canada,7.8
+2003-08,Italy,8.4
+2003-08,Germany,9.8
+2003-09,Italy,8.4
+2003-09,France,8.5
+2003-09,Canada,7.9
+2003-09,Germany,9.8
+2003-09,United States,6.1
+2003-09,United Kingdom,5.0
+2003-09,Japan,5.2
+2003-10,Japan,5.1
+2003-10,United States,6.0
+2003-10,France,8.7
+2003-10,Germany,9.8
+2003-10,United Kingdom,4.9
+2003-10,Italy,8.2
+2003-10,Canada,7.6
+2003-11,Germany,9.8
+2003-11,United Kingdom,4.9
+2003-11,United States,5.8
+2003-11,Japan,5.1
+2003-11,Italy,8.2
+2003-11,Canada,7.4
+2003-11,France,8.8
+2003-12,United States,5.7
+2003-12,Japan,4.9
+2003-12,Italy,8.2
+2003-12,Canada,7.3
+2003-12,United Kingdom,4.8
+2003-12,Germany,9.8
+2003-12,France,9.0
+2004-01,Japan,4.9
+2004-01,United States,5.7
+2004-01,Italy,8.3
+2004-01,Germany,9.8
+2004-01,Canada,7.3
+2004-01,France,8.9
+2004-01,United Kingdom,4.8
+2004-02,Canada,7.3
+2004-02,Japan,5.0
+2004-02,United States,5.6
+2004-02,Germany,10.1
+2004-02,United Kingdom,4.8
+2004-02,France,8.9
+2004-02,Italy,8.0
+2004-03,Canada,7.3
+2004-03,Japan,4.8
+2004-03,France,8.9
+2004-03,Italy,8.3
+2004-03,Germany,10.3
+2004-03,United States,5.8
+2004-03,United Kingdom,4.8
+2004-04,United Kingdom,4.8
+2004-04,Japan,4.8
+2004-04,Germany,10.3
+2004-04,France,8.8
+2004-04,Italy,8.2
+2004-04,United States,5.6
+2004-04,Canada,7.2
+2004-05,Italy,8.1
+2004-05,United Kingdom,4.8
+2004-05,United States,5.6
+2004-05,Canada,7.1
+2004-05,Japan,4.7
+2004-05,Germany,10.3
+2004-05,France,8.8
+2004-06,United Kingdom,4.8
+2004-06,Germany,10.3
+2004-06,Japan,4.7
+2004-06,France,8.8
+2004-06,Italy,7.9
+2004-06,United States,5.6
+2004-06,Canada,7.2
+2004-07,Japan,4.9
+2004-07,United Kingdom,4.7
+2004-07,Germany,10.3
+2004-07,United States,5.5
+2004-07,Italy,7.9
+2004-07,Canada,7.1
+2004-07,France,8.8
+2004-08,United States,5.4
+2004-08,France,8.9
+2004-08,Germany,10.4
+2004-08,Italy,7.7
+2004-08,United Kingdom,4.7
+2004-08,Japan,4.8
+2004-08,Canada,7.0
+2004-09,United States,5.4
+2004-09,Germany,10.4
+2004-09,Japan,4.6
+2004-09,United Kingdom,4.7
+2004-09,France,8.9
+2004-09,Italy,8.1
+2004-09,Canada,6.9
+2004-10,Japan,4.6
+2004-10,United Kingdom,4.7
+2004-10,France,9.0
+2004-10,Germany,10.5
+2004-10,Italy,8.0
+2004-10,United States,5.5
+2004-10,Canada,7.1
+2004-11,Japan,4.5
+2004-11,Italy,8.1
+2004-11,Canada,7.2
+2004-11,Germany,10.6
+2004-11,France,9.0
+2004-11,United States,5.4
+2004-11,United Kingdom,4.7
+2004-12,Japan,4.5
+2004-12,Germany,10.7
+2004-12,United Kingdom,4.7
+2004-12,France,8.9
+2004-12,United States,5.4
+2004-12,Canada,7.1
+2004-12,Italy,7.9
+2005-01,United Kingdom,4.8
+2005-01,Germany,10.7
+2005-01,Japan,4.5
+2005-01,United States,5.3
+2005-01,Italy,7.8
+2005-01,France,8.7
+2005-01,Canada,6.9
+2005-02,Japan,4.6
+2005-02,United Kingdom,4.7
+2005-02,Italy,8.0
+2005-02,France,8.6
+2005-02,Canada,7.0
+2005-02,Germany,10.9
+2005-02,United States,5.4
+2005-03,United States,5.2
+2005-03,Italy,7.9
+2005-03,Canada,6.9
+2005-03,France,8.6
+2005-03,Japan,4.5
+2005-03,Germany,10.9
+2005-03,United Kingdom,4.7
+2005-04,Canada,6.7
+2005-04,Italy,7.9
+2005-04,France,8.7
+2005-04,Japan,4.5
+2005-04,United Kingdom,4.8
+2005-04,United States,5.2
+2005-04,Germany,11.2
+2005-05,United Kingdom,4.8
+2005-05,France,8.8
+2005-05,United States,5.1
+2005-05,Germany,11.2
+2005-05,Italy,7.6
+2005-05,Canada,7.0
+2005-05,Japan,4.5
+2005-06,United States,5.0
+2005-06,Canada,6.8
+2005-06,France,8.9
+2005-06,Japan,4.3
+2005-06,Germany,11.2
+2005-06,Italy,7.9
+2005-06,United Kingdom,4.7
+2005-07,Canada,6.7
+2005-07,Germany,11.2
+2005-07,France,8.9
+2005-07,United States,5.0
+2005-07,Italy,7.6
+2005-07,Japan,4.4
+2005-07,United Kingdom,4.7
+2005-08,Germany,11.2
+2005-08,Canada,6.7
+2005-08,United Kingdom,4.7
+2005-08,France,9.0
+2005-08,Italy,7.6
+2005-08,Japan,4.3
+2005-08,United States,4.9
+2005-09,United Kingdom,4.9
+2005-09,Italy,7.8
+2005-09,Canada,6.7
+2005-09,France,9.1
+2005-09,Japan,4.2
+2005-09,Germany,11.1
+2005-09,United States,5.0
+2005-10,United States,5.0
+2005-10,France,9.1
+2005-10,United Kingdom,5.1
+2005-10,Canada,6.7
+2005-10,Japan,4.4
+2005-10,Germany,11.0
+2005-10,Italy,7.8
+2005-11,Italy,7.6
+2005-11,France,9.1
+2005-11,United Kingdom,5.1
+2005-11,Germany,10.9
+2005-11,Canada,6.3
+2005-11,United States,5.0
+2005-11,Japan,4.5
+2005-12,France,9.1
+2005-12,Italy,7.6
+2005-12,Canada,6.6
+2005-12,United Kingdom,5.1
+2005-12,United States,4.9
+2005-12,Japan,4.4
+2005-12,Germany,10.7
+2006-01,Germany,10.6
+2006-01,Japan,4.4
+2006-01,France,9.2
+2006-01,Italy,7.4
+2006-01,Canada,6.7
+2006-01,United Kingdom,5.2
+2006-01,United States,4.7
+2006-02,Italy,7.4
+2006-02,United States,4.8
+2006-02,United Kingdom,5.2
+2006-02,Germany,10.5
+2006-02,Japan,4.1
+2006-02,France,9.2
+2006-02,Canada,6.6
+2006-03,Canada,6.5
+2006-03,Italy,7.2
+2006-03,Japan,4.1
+2006-03,Germany,10.5
+2006-03,France,9.1
+2006-03,United States,4.7
+2006-03,United Kingdom,5.3
+2006-04,United Kingdom,5.4
+2006-04,Japan,4.1
+2006-04,Canada,6.5
+2006-04,France,9.0
+2006-04,Germany,10.3
+2006-04,United States,4.7
+2006-04,Italy,7.1
+2006-05,France,8.9
+2006-05,United States,4.6
+2006-05,Germany,10.2
+2006-05,Japan,4.1
+2006-05,United Kingdom,5.5
+2006-05,Italy,7.0
+2006-05,Canada,6.2
+2006-06,Germany,10.1
+2006-06,United States,4.6
+2006-06,Italy,6.7
+2006-06,France,8.9
+2006-06,United Kingdom,5.5
+2006-06,Japan,4.2
+2006-06,Canada,6.3
+2006-07,France,9.0
+2006-07,Germany,10.0
+2006-07,Canada,6.5
+2006-07,United Kingdom,5.5
+2006-07,United States,4.7
+2006-07,Japan,4.1
+2006-07,Italy,6.6
+2006-08,Japan,4.1
+2006-08,Germany,9.9
+2006-08,United States,4.7
+2006-08,France,9.0
+2006-08,Italy,6.7
+2006-08,United Kingdom,5.5
+2006-08,Canada,6.5
+2006-09,Italy,6.7
+2006-09,Japan,4.1
+2006-09,Germany,9.8
+2006-09,Canada,6.5
+2006-09,United Kingdom,5.5
+2006-09,United States,4.5
+2006-09,France,8.8
+2006-10,United States,4.4
+2006-10,Germany,9.7
+2006-10,France,8.5
+2006-10,Japan,4.1
+2006-10,Canada,6.3
+2006-10,United Kingdom,5.4
+2006-10,Italy,6.7
+2006-11,Japan,4.0
+2006-11,Italy,6.6
+2006-11,United States,4.5
+2006-11,France,8.4
+2006-11,Germany,9.6
+2006-11,Canada,6.5
+2006-11,United Kingdom,5.5
+2006-12,Italy,6.3
+2006-12,Canada,6.3
+2006-12,France,8.3
+2006-12,Japan,4.0
+2006-12,United States,4.4
+2006-12,Germany,9.4
+2006-12,United Kingdom,5.5
+2007-01,United Kingdom,5.5
+2007-01,Italy,6.3
+2007-01,Germany,9.2
+2007-01,Japan,4.0
+2007-01,Canada,6.4
+2007-01,United States,4.6
+2007-01,France,8.5
+2007-02,Canada,6.3
+2007-02,Germany,9.1
+2007-02,France,8.5
+2007-02,United States,4.5
+2007-02,United Kingdom,5.5
+2007-02,Japan,4.0
+2007-02,Italy,6.1
+2007-03,France,8.4
+2007-03,United Kingdom,5.5
+2007-03,Italy,6.1
+2007-03,Canada,6.3
+2007-03,United States,4.4
+2007-03,Japan,4.0
+2007-03,Germany,8.9
+2007-04,Germany,8.8
+2007-04,United States,4.5
+2007-04,France,8.2
+2007-04,United Kingdom,5.4
+2007-04,Canada,6.3
+2007-04,Italy,5.9
+2007-04,Japan,3.8
+2007-05,Canada,6.2
+2007-05,United States,4.4
+2007-05,France,8.1
+2007-05,United Kingdom,5.4
+2007-05,Germany,8.6
+2007-05,Japan,3.8
+2007-05,Italy,6.1
+2007-06,France,8.0
+2007-06,Italy,6.0
+2007-06,Germany,8.6
+2007-06,Japan,3.7
+2007-06,United Kingdom,5.3
+2007-06,Canada,6.1
+2007-06,United States,4.6
+2007-07,Germany,8.5
+2007-07,Canada,6.0
+2007-07,United Kingdom,5.3
+2007-07,France,8.1
+2007-07,United States,4.7
+2007-07,Japan,3.6
+2007-07,Italy,6.3
+2007-08,France,8.0
+2007-08,Germany,8.4
+2007-08,United States,4.6
+2007-08,United Kingdom,5.3
+2007-08,Italy,6.2
+2007-08,Japan,3.7
+2007-08,Canada,6.0
+2007-09,Italy,6.2
+2007-09,United Kingdom,5.2
+2007-09,France,7.9
+2007-09,Japan,3.9
+2007-09,United States,4.7
+2007-09,Germany,8.4
+2007-09,Canada,6.0
+2007-10,Italy,6.3
+2007-10,Germany,8.3
+2007-10,Japan,4.0
+2007-10,France,7.7
+2007-10,United Kingdom,5.2
+2007-10,Canada,6.0
+2007-10,United States,4.7
+2007-11,Japan,3.8
+2007-11,France,7.5
+2007-11,Italy,6.3
+2007-11,Germany,8.2
+2007-11,Canada,6.1
+2007-11,United Kingdom,5.2
+2007-11,United States,4.7
+2007-12,Germany,8.1
+2007-12,Japan,3.7
+2007-12,Italy,6.7
+2007-12,Canada,6.2
+2007-12,France,7.3
+2007-12,United Kingdom,5.2
+2007-12,United States,5.0
+2008-01,United States,5.0
+2008-01,Canada,6.1
+2008-01,Germany,8.0
+2008-01,France,7.2
+2008-01,Japan,3.9
+2008-01,United Kingdom,5.2
+2008-01,Italy,6.6
+2008-02,Germany,7.9
+2008-02,Italy,6.7
+2008-02,United Kingdom,5.2
+2008-02,United States,4.9
+2008-02,Japan,4.0
+2008-02,France,7.1
+2008-02,Canada,6.1
+2008-03,United States,5.1
+2008-03,United Kingdom,5.3
+2008-03,Italy,6.4
+2008-03,France,7.1
+2008-03,Japan,3.8
+2008-03,Canada,6.2
+2008-03,Germany,7.8
+2008-04,Japan,3.9
+2008-04,Canada,6.2
+2008-04,United Kingdom,5.2
+2008-04,France,7.3
+2008-04,United States,5.0
+2008-04,Germany,7.7
+2008-04,Italy,6.9
+2008-05,Japan,4.0
+2008-05,Canada,6.2
+2008-05,United States,5.4
+2008-05,United Kingdom,5.4
+2008-05,Italy,6.8
+2008-05,Germany,7.6
+2008-05,France,7.3
+2008-06,Japan,4.0
+2008-06,Canada,6.1
+2008-06,Germany,7.4
+2008-06,Italy,6.9
+2008-06,France,7.4
+2008-06,United Kingdom,5.5
+2008-06,United States,5.6
+2008-07,Germany,7.3
+2008-07,Japan,3.9
+2008-07,Canada,6.2
+2008-07,United Kingdom,5.7
+2008-07,United States,5.8
+2008-07,Italy,6.6
+2008-07,France,7.5
+2008-08,Japan,4.1
+2008-08,United States,6.1
+2008-08,Canada,6.2
+2008-08,Germany,7.1
+2008-08,France,7.5
+2008-08,United Kingdom,5.9
+2008-08,Italy,6.8
+2008-09,Japan,4.0
+2008-09,France,7.5
+2008-09,Germany,7.0
+2008-09,Italy,6.8
+2008-09,Canada,6.3
+2008-09,United States,6.1
+2008-09,United Kingdom,6.0
+2008-10,Germany,7.0
+2008-10,Italy,6.9
+2008-10,United States,6.5
+2008-10,Canada,6.4
+2008-10,Japan,3.8
+2008-10,France,7.6
+2008-10,United Kingdom,6.2
+2008-11,United States,6.8
+2008-11,France,7.8
+2008-11,Germany,7.0
+2008-11,Japan,4.0
+2008-11,United Kingdom,6.4
+2008-11,Italy,7.1
+2008-11,Canada,6.7
+2008-12,United Kingdom,6.5
+2008-12,Japan,4.4
+2008-12,Germany,7.0
+2008-12,Italy,6.9
+2008-12,Canada,7.0
+2008-12,United States,7.3
+2008-12,France,8.0
+2009-01,Japan,4.3
+2009-01,Italy,7.2
+2009-01,France,8.3
+2009-01,Germany,7.1
+2009-01,United Kingdom,6.7
+2009-01,Canada,7.5
+2009-01,United States,7.8
+2009-02,United Kingdom,7.1
+2009-02,Japan,4.6
+2009-02,Canada,8.1
+2009-02,Italy,7.4
+2009-02,France,8.6
+2009-02,United States,8.3
+2009-02,Germany,7.1
+2009-03,United States,8.7
+2009-03,France,8.9
+2009-03,United Kingdom,7.3
+2009-03,Italy,7.6
+2009-03,Japan,4.8
+2009-03,Canada,8.3
+2009-03,Germany,7.2
+2009-04,Italy,7.5
+2009-04,Japan,5.0
+2009-04,United Kingdom,7.6
+2009-04,Germany,7.3
+2009-04,United States,9.0
+2009-04,France,9.1
+2009-04,Canada,8.4
+2009-05,United States,9.4
+2009-05,Germany,7.3
+2009-05,Canada,8.6
+2009-05,Japan,5.1
+2009-05,France,9.2
+2009-05,Italy,7.5
+2009-05,United Kingdom,7.8
+2009-06,Japan,5.2
+2009-06,United States,9.5
+2009-06,France,9.1
+2009-06,United Kingdom,7.9
+2009-06,Canada,8.8
+2009-06,Italy,7.8
+2009-06,Germany,7.4
+2009-07,Japan,5.5
+2009-07,Canada,8.8
+2009-07,Italy,8.0
+2009-07,Germany,7.4
+2009-07,United States,9.5
+2009-07,France,9.1
+2009-07,United Kingdom,7.9
+2009-08,United Kingdom,7.8
+2009-08,Canada,8.8
+2009-08,Japan,5.4
+2009-08,United States,9.6
+2009-08,Germany,7.4
+2009-08,France,9.2
+2009-08,Italy,8.0
+2009-09,Japan,5.4
+2009-09,Germany,7.3
+2009-09,United Kingdom,7.9
+2009-09,Italy,8.3
+2009-09,Canada,8.5
+2009-09,France,9.3
+2009-09,United States,9.8
+2009-10,Japan,5.2
+2009-10,Canada,8.5
+2009-10,United States,10.0
+2009-10,France,9.5
+2009-10,United Kingdom,7.8
+2009-10,Germany,7.2
+2009-10,Italy,8.3
+2009-11,United States,9.9
+2009-11,United Kingdom,7.8
+2009-11,Italy,8.4
+2009-11,Canada,8.6
+2009-11,France,9.6
+2009-11,Germany,7.1
+2009-11,Japan,5.2
+2009-12,Germany,7.1
+2009-12,France,9.5
+2009-12,Japan,5.2
+2009-12,United Kingdom,7.7
+2009-12,Italy,8.5
+2009-12,United States,9.9
+2009-12,Canada,8.6
+2010-01,France,9.5
+2010-01,Japan,5.0
+2010-01,United States,9.8
+2010-01,Italy,8.5
+2010-01,Canada,8.4
+2010-01,United Kingdom,7.9
+2010-01,Germany,7.0
+2010-02,United States,9.8
+2010-02,France,9.4
+2010-02,United Kingdom,8.0
+2010-02,Japan,5.0
+2010-02,Germany,7.0
+2010-02,Italy,8.6
+2010-02,Canada,8.4
+2010-03,Germany,6.9
+2010-03,Japan,5.1
+2010-03,United Kingdom,8.0
+2010-03,Canada,8.3
+2010-03,France,9.3
+2010-03,United States,9.9
+2010-03,Italy,8.6
+2010-04,Japan,5.1
+2010-04,Canada,8.2
+2010-04,France,9.3
+2010-04,Germany,6.8
+2010-04,United States,9.9
+2010-04,Italy,8.7
+2010-04,United Kingdom,7.9
+2010-05,Canada,8.1
+2010-05,Germany,6.7
+2010-05,United Kingdom,7.9
+2010-05,Italy,8.7
+2010-05,United States,9.6
+2010-05,France,9.3
+2010-05,Japan,5.1
+2010-06,France,9.2
+2010-06,Germany,6.5
+2010-06,Canada,8.0
+2010-06,United States,9.4
+2010-06,Italy,8.5
+2010-06,Japan,5.2
+2010-06,United Kingdom,7.8
+2010-07,Italy,8.5
+2010-07,Canada,8.2
+2010-07,Japan,5.0
+2010-07,United Kingdom,7.8
+2010-07,Germany,6.4
+2010-07,France,9.2
+2010-07,United States,9.4
+2010-08,Japan,5.1
+2010-08,France,9.2
+2010-08,Canada,8.2
+2010-08,Germany,6.4
+2010-08,Italy,8.3
+2010-08,United Kingdom,7.8
+2010-08,United States,9.5
+2010-09,Germany,6.3
+2010-09,Canada,8.2
+2010-09,France,9.2
+2010-09,United States,9.5
+2010-09,Italy,8.4
+2010-09,Japan,5.1
+2010-09,United Kingdom,7.9
+2010-10,Canada,8.1
+2010-10,United States,9.4
+2010-10,Italy,8.6
+2010-10,Germany,6.3
+2010-10,Japan,5.1
+2010-10,France,9.2
+2010-10,United Kingdom,7.9
+2010-11,Germany,6.2
+2010-11,Canada,7.8
+2010-11,Italy,8.4
+2010-11,Japan,5.0
+2010-11,United States,9.8
+2010-11,France,9.2
+2010-11,United Kingdom,7.9
+2010-12,Japan,4.9
+2010-12,United Kingdom,7.9
+2010-12,Italy,8.2
+2010-12,France,9.2
+2010-12,Germany,6.1
+2010-12,United States,9.3
+2010-12,Canada,7.8
+2011-01,United States,9.1
+2011-01,Italy,8.2
+2011-01,Japan,4.8
+2011-01,United Kingdom,7.8
+2011-01,Canada,7.8
+2011-01,Germany,6.0
+2011-01,France,9.2
+2011-02,United Kingdom,7.8
+2011-02,Italy,8.1
+2011-02,France,9.2
+2011-02,Germany,5.9
+2011-02,Japan,4.7
+2011-02,United States,9.0
+2011-02,Canada,7.8
+2011-03,France,9.1
+2011-03,Germany,5.7
+2011-03,United States,9.0
+2011-03,Japan,4.7
+2011-03,United Kingdom,7.7
+2011-03,Canada,7.8
+2011-03,Italy,8.1
+2011-04,United States,9.1
+2011-04,United Kingdom,7.8
+2011-04,France,9.1
+2011-04,Germany,5.6
+2011-04,Canada,7.8
+2011-04,Italy,8.0
+2011-04,Japan,4.7
+2011-05,United Kingdom,7.9
+2011-05,United States,9.0
+2011-05,France,9.1
+2011-05,Canada,7.7
+2011-05,Japan,4.6
+2011-05,Germany,5.6
+2011-05,Italy,8.3
+2011-06,France,9.1
+2011-06,Germany,5.5
+2011-06,Canada,7.7
+2011-06,United States,9.1
+2011-06,United Kingdom,8.0
+2011-06,Japan,4.7
+2011-06,Italy,8.2
+2011-07,United States,9.0
+2011-07,United Kingdom,8.2
+2011-07,Germany,5.5
+2011-07,Italy,8.4
+2011-07,Canada,7.4
+2011-07,France,9.2
+2011-07,Japan,4.7
+2011-08,Germany,5.4
+2011-08,France,9.2
+2011-08,Canada,7.4
+2011-08,Japan,4.5
+2011-08,Italy,8.6
+2011-08,United Kingdom,8.3
+2011-08,United States,9.0
+2011-09,United States,9.0
+2011-09,Canada,7.4
+2011-09,Italy,9.0
+2011-09,France,9.2
+2011-09,Japan,4.2
+2011-09,Germany,5.4
+2011-09,United Kingdom,8.4
+2011-10,Japan,4.4
+2011-10,United States,8.8
+2011-10,Italy,8.9
+2011-10,France,9.3
+2011-10,Germany,5.3
+2011-10,United Kingdom,8.5
+2011-10,Canada,7.5
+2011-11,Italy,9.5
+2011-11,France,9.4
+2011-11,United Kingdom,8.4
+2011-11,Japan,4.5
+2011-11,Germany,5.2
+2011-11,Canada,7.6
+2011-11,United States,8.6
+2011-12,Canada,7.5
+2011-12,France,9.4
+2011-12,Japan,4.5
+2011-12,Germany,5.2
+2011-12,Italy,9.7
+2011-12,United States,8.5
+2011-12,United Kingdom,8.4
+2012-01,Japan,4.5
+2012-01,France,9.4
+2012-01,Germany,5.1
+2012-01,Italy,9.7
+2012-01,Canada,7.7
+2012-01,United States,8.3
+2012-01,United Kingdom,8.3
+2012-02,United States,8.3
+2012-02,Italy,10.2
+2012-02,France,9.5
+2012-02,Canada,7.6
+2012-02,Japan,4.5
+2012-02,United Kingdom,8.2
+2012-02,Germany,5.1
+2012-03,Japan,4.5
+2012-03,United Kingdom,8.2
+2012-03,Italy,10.7
+2012-03,France,9.5
+2012-03,United States,8.2
+2012-03,Canada,7.3
+2012-03,Germany,5.1
+2012-04,United Kingdom,8.1
+2012-04,Italy,10.7
+2012-04,United States,8.2
+2012-04,France,9.6
+2012-04,Canada,7.4
+2012-04,Japan,4.5
+2012-04,Germany,5.1
+2012-05,Germany,5.1
+2012-05,Canada,7.5
+2012-05,Japan,4.4
+2012-05,Italy,10.6
+2012-05,United States,8.2
+2012-05,France,9.7
+2012-05,United Kingdom,8.0
+2012-06,Italy,10.9
+2012-06,Canada,7.4
+2012-06,France,9.7
+2012-06,Japan,4.3
+2012-06,United States,8.2
+2012-06,United Kingdom,8.0
+2012-06,Germany,5.1
+2012-07,Germany,5.1
+2012-07,Canada,7.3
+2012-07,France,9.7
+2012-07,United Kingdom,7.9
+2012-07,Japan,4.3
+2012-07,Italy,11.1
+2012-07,United States,8.2
+2012-08,France,9.7
+2012-08,United Kingdom,7.9
+2012-08,Japan,4.2
+2012-08,Italy,11.0
+2012-08,United States,8.1
+2012-08,Germany,5.0
+2012-08,Canada,7.4
+2012-09,Canada,7.4
+2012-09,France,9.8
+2012-09,United States,7.8
+2012-09,Germany,5.0
+2012-09,Italy,11.2
+2012-09,Japan,4.2
+2012-09,United Kingdom,7.9
+2012-10,United States,7.8
+2012-10,France,10.1
+2012-10,Italy,11.6
+2012-10,Japan,4.1
+2012-10,Germany,5.0
+2012-10,Canada,7.4
+2012-10,United Kingdom,7.8
+2012-11,Germany,5.0
+2012-11,Canada,7.3
+2012-11,Italy,11.6
+2012-11,Japan,4.1
+2012-11,France,10.2
+2012-11,United States,7.7
+2012-11,United Kingdom,7.8
+2012-12,Japan,4.3
+2012-12,France,10.3
+2012-12,Germany,5.0
+2012-12,Canada,7.2
+2012-12,Italy,11.6
+2012-12,United States,7.9
+2012-12,United Kingdom,7.8
+2013-01,France,10.4
+2013-01,Canada,7.1
+2013-01,Japan,4.2
+2013-01,Italy,12.1
+2013-01,Germany,5.1
+2013-01,United Kingdom,8.0
+2013-01,United States,8.0
+2013-02,United Kingdom,7.9
+2013-02,Germany,5.1
+2013-02,Canada,7.0
+2013-02,France,10.4
+2013-02,Italy,12.0
+2013-02,United States,7.7
+2013-02,Japan,4.3
+2013-03,France,10.4
+2013-03,United States,7.5
+2013-03,Canada,7.3
+2013-03,Italy,12.0
+2013-03,Germany,5.0
+2013-03,Japan,4.1
+2013-03,United Kingdom,7.8
+2013-04,Canada,7.2
+2013-04,United Kingdom,7.8
+2013-04,France,10.5
+2013-04,Germany,5.0
+2013-04,Italy,12.3
+2013-04,Japan,4.1
+2013-04,United States,7.6
+2013-05,Japan,4.1
+2013-05,United Kingdom,7.8
+2013-05,Germany,5.0
+2013-05,France,10.4
+2013-05,Italy,12.4
+2013-05,United States,7.5
+2013-05,Canada,7.0
+2013-06,United States,7.5
+2013-06,United Kingdom,7.7
+2013-06,Germany,4.9
+2013-06,France,10.4
+2013-06,Italy,12.4
+2013-06,Canada,7.2
+2013-06,Japan,3.9
+2013-07,France,10.3
+2013-07,Canada,7.3
+2013-07,United Kingdom,7.7
+2013-07,Germany,4.9
+2013-07,Japan,3.8
+2013-07,Italy,12.2
+2013-07,United States,7.3
+2013-08,Japan,4.1
+2013-08,United States,7.2
+2013-08,Italy,12.5
+2013-08,Canada,7.2
+2013-08,United Kingdom,7.6
+2013-08,France,10.1
+2013-08,Germany,4.9
+2013-09,Japan,3.9
+2013-09,Canada,7.1
+2013-09,United Kingdom,7.4
+2013-09,Germany,4.9
+2013-09,United States,7.2
+2013-09,Italy,12.6
+2013-09,France,10.3
+2013-10,Italy,12.6
+2013-10,Canada,7.2
+2013-10,United Kingdom,7.2
+2013-10,France,10.1
+2013-10,Germany,4.8
+2013-10,Japan,4.0
+2013-10,United States,7.2
+2013-11,United States,6.9
+2013-11,Germany,4.8
+2013-11,United Kingdom,7.2
+2013-11,Canada,7.1
+2013-11,France,10.2
+2013-11,Italy,12.5
+2013-11,Japan,3.9
+2013-12,Germany,4.9
+2013-12,Italy,12.6
+2013-12,United Kingdom,7.2
+2013-12,United States,6.7
+2013-12,France,10.2
+2013-12,Japan,3.7
+2013-12,Canada,7.4
+2014-01,United States,6.6
+2014-01,Canada,7.2
+2014-01,France,10.2
+2014-01,Italy,13.0
+2014-01,Germany,4.8
+2014-01,Japan,3.7
+2014-01,United Kingdom,6.9
+2014-02,Canada,7.2
+2014-02,Germany,4.8
+2014-02,Japan,3.6
+2014-02,Italy,12.9
+2014-02,France,10.2
+2014-02,United States,6.7
+2014-02,United Kingdom,6.8
+2014-03,Germany,4.8
+2014-03,Italy,12.7
+2014-03,France,10.2
+2014-03,Japan,3.7
+2014-03,Canada,7.1
+2014-03,United Kingdom,6.6
+2014-03,United States,6.7
+2014-04,United Kingdom,6.5
+2014-04,Japan,3.6
+2014-04,Italy,12.7
+2014-04,United States,6.2
+2014-04,France,10.1
+2014-04,Germany,4.8
+2014-04,Canada,7.1
+2014-05,Germany,4.7
+2014-05,United Kingdom,6.3
+2014-05,Canada,7.3
+2014-05,Japan,3.6
+2014-05,United States,6.3
+2014-05,Italy,12.7
+2014-05,France,10.1
+2014-06,Canada,7.1
+2014-06,Japan,3.7
+2014-06,Italy,12.3
+2014-06,France,10.2
+2014-06,Germany,4.7
+2014-06,United States,6.1
+2014-06,United Kingdom,6.2
+2014-07,United Kingdom,6.0
+2014-07,Italy,12.9
+2014-07,United States,6.2
+2014-07,France,10.2
+2014-07,Canada,7.1
+2014-07,Germany,4.7
+2014-07,Japan,3.7
+2014-08,Germany,4.7
+2014-08,Italy,12.5
+2014-08,United Kingdom,6.0
+2014-08,United States,6.1
+2014-08,France,10.2
+2014-08,Canada,7.0
+2014-08,Japan,3.5
+2014-09,France,10.4
+2014-09,Italy,12.9
+2014-09,Canada,7.0
+2014-09,Japan,3.5
+2014-09,Germany,4.7
+2014-09,United Kingdom,6.0
+2014-09,United States,5.9
+2014-10,Germany,4.7
+2014-10,France,10.4
+2014-10,Italy,13.0
+2014-10,Japan,3.6
+2014-10,United States,5.7
+2014-10,Canada,6.8
+2014-10,United Kingdom,5.9
+2014-11,United States,5.8
+2014-11,Japan,3.4
+2014-11,Germany,4.6
+2014-11,France,10.5
+2014-11,Italy,13.2
+2014-11,Canada,6.8
+2014-11,United Kingdom,5.7
+2014-12,Canada,6.7
+2014-12,Germany,4.6
+2014-12,United States,5.6
+2014-12,France,10.5
+2014-12,Italy,12.4
+2014-12,Japan,3.4
+2014-12,United Kingdom,5.7
+2015-01,United States,5.7
+2015-01,Italy,12.4
+2015-01,United Kingdom,5.6
+2015-01,Germany,4.5
+2015-01,France,10.4
+2015-01,Japan,3.6
+2015-01,Canada,6.8
+2015-02,United States,5.5
+2015-02,Germany,4.5
+2015-02,United Kingdom,5.6
+2015-02,Canada,6.9
+2015-02,Italy,12.4
+2015-02,Japan,3.5
+2015-02,France,10.3
+2015-03,Germany,4.5
+2015-03,Italy,12.6
+2015-03,Canada,6.8
+2015-03,Japan,3.4
+2015-03,United Kingdom,5.5
+2015-03,France,10.4
+2015-03,United States,5.4
+2015-04,Canada,6.9
+2015-04,United States,5.4
+2015-04,France,10.4
+2015-04,Japan,3.4
+2015-04,United Kingdom,5.7
+2015-04,Italy,12.2
+2015-04,Germany,4.4
+2015-05,Germany,4.4
+2015-05,United States,5.6
+2015-05,United Kingdom,5.6
+2015-05,France,10.5
+2015-05,Italy,12.3
+2015-05,Japan,3.3
+2015-05,Canada,6.8
+2015-06,United States,5.3
+2015-06,France,10.4
+2015-06,Japan,3.4
+2015-06,United Kingdom,5.6
+2015-06,Italy,12.3
+2015-06,Canada,6.9
+2015-06,Germany,4.4
+2015-07,United States,5.2
+2015-07,Italy,11.7
+2015-07,Japan,3.3
+2015-07,Germany,4.3
+2015-07,United Kingdom,5.4
+2015-07,Canada,6.9
+2015-07,France,10.3
+2015-08,Germany,4.3
+2015-08,France,10.3
+2015-08,Italy,11.7
+2015-08,United States,5.1
+2015-08,United Kingdom,5.4
+2015-08,Canada,7.0
+2015-08,Japan,3.4
+2015-09,Italy,11.6
+2015-09,Japan,3.4
+2015-09,Canada,7.1
+2015-09,Germany,4.3
+2015-09,France,10.3
+2015-09,United States,5.0
+2015-09,United Kingdom,5.2
+2015-10,United States,5.0
+2015-10,United Kingdom,5.1
+2015-10,Italy,11.7
+2015-10,Canada,7.0
+2015-10,Germany,4.3
+2015-10,France,10.3
+2015-10,Japan,3.2
+2015-11,United States,5.1
+2015-11,Canada,7.1
+2015-11,Italy,11.5
+2015-11,Japan,3.3
+2015-11,Germany,4.2
+2015-11,United Kingdom,5.1
+2015-11,France,10.3
+2015-12,Japan,3.3
+2015-12,Germany,4.2
+2015-12,Italy,11.7
+2015-12,United States,5.0
+2015-12,United Kingdom,5.1
+2015-12,France,10.2
+2015-12,Canada,7.2
+2016-01,France,10.3
+2016-01,Italy,11.6
+2016-01,United Kingdom,5.2
+2016-01,Germany,4.2
+2016-01,Japan,3.2
+2016-01,United States,4.8
+2016-01,Canada,7.3
+2016-02,Canada,7.3
+2016-02,Japan,3.3
+2016-02,France,10.4
+2016-02,Italy,11.7
+2016-02,Germany,4.1
+2016-02,United States,4.9
+2016-02,United Kingdom,5.1
+2016-03,United States,5.0
+2016-03,Japan,3.2
+2016-03,France,10.2
+2016-03,United Kingdom,5.1
+2016-03,Germany,4.1
+2016-03,Italy,11.6
+2016-03,Canada,7.2
+2016-04,Japan,3.2
+2016-04,Germany,4.0
+2016-04,Canada,7.3
+2016-04,Italy,11.8
+2016-04,United Kingdom,5.0
+2016-04,United States,5.1
+2016-04,France,10.1
+2016-05,Canada,7.0
+2016-05,France,10.0
+2016-05,United Kingdom,5.0
+2016-05,Japan,3.2
+2016-05,Italy,11.6
+2016-05,United States,4.8
+2016-05,Germany,4.0
+2016-06,United States,4.9
+2016-06,Japan,3.1
+2016-06,Italy,11.7
+2016-06,Canada,6.9
+2016-06,Germany,4.0
+2016-06,France,10.0
+2016-06,United Kingdom,4.9
+2016-07,Japan,3.0
+2016-07,France,9.8
+2016-07,United States,4.8
+2016-07,United Kingdom,5.0
+2016-07,Germany,3.9
+2016-07,Canada,6.9
+2016-07,Italy,11.6
+2016-08,United States,4.9
+2016-08,France,9.9
+2016-08,United Kingdom,4.9
+2016-08,Japan,3.1
+2016-08,Canada,6.9
+2016-08,Italy,11.7
+2016-08,Germany,3.9
+2016-09,Italy,11.9
+2016-09,Japan,3.0
+2016-09,United States,5.0
+2016-09,France,9.9
+2016-09,United Kingdom,4.9
+2016-09,Germany,3.8
+2016-09,Canada,7.0
+2016-10,United Kingdom,4.9
+2016-10,Japan,3.0
+2016-10,Canada,6.9
+2016-10,Germany,3.8
+2016-10,France,10.1
+2016-10,United States,4.9
+2016-10,Italy,11.7
+2016-11,United Kingdom,4.8
+2016-11,Germany,3.7
+2016-11,Italy,12.0
+2016-11,France,10.1
+2016-11,Canada,6.8
+2016-11,Japan,3.0
+2016-11,United States,4.7
+2016-12,Germany,3.7
+2016-12,France,10.0
+2016-12,Japan,3.0
+2016-12,Canada,6.9
+2016-12,Italy,11.8
+2016-12,United Kingdom,4.8
+2016-12,United States,4.7
+2017-01,Japan,3.0
+2017-01,United Kingdom,4.7
+2017-01,France,9.7
+2017-01,Italy,11.7
+2017-01,Canada,6.8
+2017-01,United States,4.7
+2017-01,Germany,3.7
+2017-02,United Kingdom,4.6
+2017-02,Japan,2.9
+2017-02,Canada,6.6
+2017-02,Germany,3.7
+2017-02,France,9.6
+2017-02,United States,4.6
+2017-02,Italy,11.5
+2017-03,United States,4.4
+2017-03,Italy,11.6
+2017-03,Japan,2.8
+2017-03,France,9.6
+2017-03,United Kingdom,4.6
+2017-03,Canada,6.7
+2017-03,Germany,3.7
+2017-04,Germany,3.6
+2017-04,Canada,6.5
+2017-04,United Kingdom,4.5
+2017-04,Japan,2.8
+2017-04,United States,4.4
+2017-04,Italy,11.2
+2017-04,France,9.5
+2017-05,United Kingdom,4.5
+2017-05,Germany,3.6
+2017-05,Canada,6.6
+2017-05,France,9.6
+2017-05,Italy,11.4
+2017-05,United States,4.4
+2017-05,Japan,3.0
+2017-06,Canada,6.5
+2017-06,Germany,3.6
+2017-06,France,9.5
+2017-06,Japan,2.8
+2017-06,Italy,11.2
+2017-06,United States,4.3
+2017-06,United Kingdom,4.4
+2017-07,France,9.6
+2017-07,Italy,11.4
+2017-07,United States,4.3
+2017-07,Canada,6.3
+2017-07,Germany,3.5
+2017-07,United Kingdom,4.4
+2017-07,Japan,2.8
+2017-08,United States,4.4
+2017-08,United Kingdom,4.3
+2017-08,Germany,3.5
+2017-08,France,9.5
+2017-08,Japan,2.8
+2017-08,Canada,6.2
+2017-08,Italy,11.3
+2017-09,United States,4.3
+2017-09,Canada,6.2
+2017-09,Germany,3.5
+2017-09,United Kingdom,4.3
+2017-09,France,9.3
+2017-09,Italy,11.2
+2017-09,Japan,2.8
+2017-10,Italy,11.1
+2017-10,Canada,6.4
+2017-10,Germany,3.5
+2017-10,United Kingdom,4.3
+2017-10,United States,4.2
+2017-10,Japan,2.7
+2017-10,France,9.1
+2017-11,Canada,6.1
+2017-11,Japan,2.7
+2017-11,France,9.0
+2017-11,United States,4.2
+2017-11,Italy,10.9
+2017-11,United Kingdom,4.4
+2017-11,Germany,3.4
+2017-12,Italy,10.9
+2017-12,Japan,2.7
+2017-12,Canada,6.0
+2017-12,Germany,3.4
+2017-12,United States,4.1
+2017-12,France,9.0
+2017-12,United Kingdom,4.4
+2018-01,Italy,11.0
+2018-01,United Kingdom,4.3
+2018-01,Canada,5.9
+2018-01,Japan,2.4
+2018-01,Germany,3.3
+2018-01,United States,4.0
+2018-01,France,9.2
+2018-02,United Kingdom,4.3
+2018-02,Italy,10.8
+2018-02,Japan,2.5
+2018-02,France,9.3
+2018-02,United States,4.1
+2018-02,Canada,6.0
+2018-02,Germany,3.3
+2018-03,Germany,3.3
+2018-03,Italy,10.9
+2018-03,Japan,2.5
+2018-03,Canada,5.8
+2018-03,France,9.3
+2018-03,United States,4.0
+2018-03,United Kingdom,4.3
+2018-04,Italy,11.0
+2018-04,Japan,2.5
+2018-04,Canada,5.8
+2018-04,France,9.2
+2018-04,United States,4.0
+2018-04,United Kingdom,4.2
+2018-04,Germany,3.3
+2018-05,United Kingdom,4.1
+2018-05,Germany,3.2
+2018-05,France,9.2
+2018-05,Canada,5.9
+2018-05,United States,3.8
+2018-05,Japan,2.2
+2018-05,Italy,10.6
+2018-06,United States,4.0
+2018-06,Germany,3.2
+2018-06,Japan,2.4
+2018-06,France,9.1
+2018-06,Canada,6.0
+2018-06,United Kingdom,4.1
+2018-06,Italy,10.7
+2018-07,Italy,10.3
+2018-07,Japan,2.5
+2018-07,France,9.0
+2018-07,Germany,3.2
+2018-07,United States,3.8
+2018-07,Canada,5.9
+2018-07,United Kingdom,4.1
+2018-08,Japan,2.5
+2018-08,Canada,6.0
+2018-08,France,8.9
+2018-08,Italy,10.2
+2018-08,United States,3.8
+2018-08,Germany,3.2
+2018-08,United Kingdom,4.2
+2018-09,France,8.8
+2018-09,Japan,2.3
+2018-09,Germany,3.2
+2018-09,United Kingdom,4.1
+2018-09,Canada,5.8
+2018-09,United States,3.7
+2018-09,Italy,10.4
+2018-10,Japan,2.4
+2018-10,Germany,3.1
+2018-10,United Kingdom,4.1
+2018-10,France,8.8
+2018-10,Italy,10.7
+2018-10,Canada,5.7
+2018-10,United States,3.8
+2018-11,Canada,5.7
+2018-11,United Kingdom,4.1
+2018-11,Germany,3.1
+2018-11,France,8.7
+2018-11,United States,3.8
+2018-11,Italy,10.5
+2018-11,Japan,2.5
+2018-12,Italy,10.3
+2018-12,Japan,2.5
+2018-12,United States,3.9
+2018-12,United Kingdom,4.0
+2018-12,France,8.8
+2018-12,Germany,3.1
+2018-12,Canada,5.7
+2019-01,Germany,3.1
+2019-01,Japan,2.5
+2019-01,France,8.8
+2019-01,United States,4.0
+2019-01,United Kingdom,4.0
+2019-01,Italy,10.4
+2019-01,Canada,5.7
+2019-02,Japan,2.4
+2019-02,United States,3.8
+2019-02,Germany,3.0
+2019-02,United Kingdom,3.9
+2019-02,Italy,10.4
+2019-02,Canada,5.8
+2019-02,France,8.7
+2019-03,United Kingdom,3.9
+2019-03,Japan,2.5
+2019-03,Canada,5.9
+2019-03,United States,3.8
+2019-03,Germany,3.0
+2019-03,France,8.7
+2019-03,Italy,10.2
+2019-04,Italy,10.3
+2019-04,Japan,2.4
+2019-04,United States,3.7
+2019-04,Germany,3.0
+2019-04,Canada,5.7
+2019-04,United Kingdom,3.9
+2019-04,France,8.6
+2019-05,Canada,5.4
+2019-05,Germany,2.9
+2019-05,Italy,10.0
+2019-05,Japan,2.3
+2019-05,United States,3.6
+2019-05,France,8.5
+2019-05,United Kingdom,4.0
+2019-06,Japan,2.3
+2019-06,Canada,5.6
+2019-06,France,8.5
+2019-06,Italy,9.7
+2019-06,Germany,2.9
+2019-06,United Kingdom,3.9
+2019-06,United States,3.6
+2019-07,France,8.4
+2019-07,United States,3.7
+2019-07,Canada,5.8
+2019-07,United Kingdom,4.0
+2019-07,Germany,2.9
+2019-07,Italy,9.6
+2019-07,Japan,2.3
+2019-08,Germany,2.9
+2019-08,Italy,9.5
+2019-08,Canada,5.8
+2019-08,United States,3.6
+2019-08,Japan,2.3
+2019-08,United Kingdom,3.9
+2019-08,France,8.2
+2019-09,Italy,9.7
+2019-09,Germany,2.9
+2019-09,United States,3.5
+2019-09,United Kingdom,3.9
+2019-09,Japan,2.4
+2019-09,Canada,5.6
+2019-09,France,8.1
+2019-10,France,8.2
+2019-10,United States,3.6
+2019-10,United Kingdom,3.9
+2019-10,Canada,5.6
+2019-10,Germany,3.0
+2019-10,Italy,9.5
+2019-10,Japan,2.4
+2019-11,Japan,2.3
+2019-11,Canada,5.9
+2019-11,United States,3.6
+2019-11,Germany,3.1
+2019-11,United Kingdom,3.9
+2019-11,France,8.2
+2019-11,Italy,9.8
+2019-12,Germany,3.1
+2019-12,Canada,5.6
+2019-12,Japan,2.2
+2019-12,France,8.2
+2019-12,Italy,9.7
+2019-12,United Kingdom,4.0
+2019-12,United States,3.6
+2020-01,United Kingdom,4.1
+2020-01,Germany,3.2
+2020-01,Canada,5.5
+2020-01,Japan,2.4
+2020-01,Italy,9.6
+2020-01,France,8.2
+2020-01,United States,3.6
+2020-02,Germany,3.3
+2020-02,Italy,9.5
+2020-02,Japan,2.4
+2020-02,United States,3.5
+2020-02,United Kingdom,4.1
+2020-02,Canada,5.7
+2020-02,France,7.8
+2020-03,United Kingdom,4.2
+2020-03,Canada,8.4
+2020-03,Italy,7.7
+2020-03,Japan,2.5
+2020-03,France,7.6
+2020-03,Germany,3.4
+2020-03,United States,4.4
+2020-04,United States,14.8
+2020-04,Japan,2.6
+2020-04,Germany,3.5
+2020-04,United Kingdom,4.2
+2020-04,France,7.6
+2020-04,Italy,7.5
+2020-04,Canada,13.6
+2020-05,France,7.1
+2020-05,Canada,14.1
+2020-05,Italy,8.7
+2020-05,United Kingdom,4.2
+2020-05,United States,13.2
+2020-05,Japan,2.8
+2020-05,Germany,3.6
+2020-06,United Kingdom,4.4
+2020-06,Italy,9.6
+2020-06,United States,11.0
+2020-06,Germany,3.7
+2020-06,France,7.4
+2020-06,Canada,12.4
+2020-06,Japan,2.8
+2020-07,United States,10.2
+2020-07,France,8.6
+2020-07,Germany,3.8
+2020-07,Italy,10.3
+2020-07,United Kingdom,4.7
+2020-07,Canada,11.0
+2020-07,Japan,2.9
+2020-08,Germany,3.9
+2020-08,Canada,10.2
+2020-08,Japan,3.0
+2020-08,United States,8.4
+2020-08,United Kingdom,5.0
+2020-08,France,9.0
+2020-08,Italy,10.1
+2020-09,Germany,3.9
+2020-09,Japan,3.0
+2020-09,United States,7.8
+2020-09,Italy,10.1
+2020-09,France,8.9
+2020-09,United Kingdom,5.2
+2020-09,Canada,9.2
+2020-10,United States,6.8
+2020-10,Italy,9.9
+2020-10,France,8.2
+2020-10,Germany,3.9
+2020-10,United Kingdom,5.2
+2020-10,Canada,9.0
+2020-10,Japan,3.1
+2020-11,United Kingdom,5.3
+2020-11,United States,6.7
+2020-11,Japan,3.0
+2020-11,Germany,3.9
+2020-11,France,8.0
+2020-11,Italy,9.5
+2020-11,Canada,8.7
+2020-12,France,7.9
+2020-12,Japan,3.1
+2020-12,Italy,9.8
+2020-12,United States,6.7
+2020-12,Canada,8.9
+2020-12,Germany,3.9
+2020-12,United Kingdom,5.3
+2021-01,France,8.0
+2021-01,United States,6.4
+2021-01,Canada,9.2
+2021-01,Japan,3.0
+2021-01,United Kingdom,5.2
+2021-01,Italy,10.1
+2021-01,Germany,3.9
+2021-02,United Kingdom,5.1
+2021-02,Italy,10.1
+2021-02,France,8.2
+2021-02,United States,6.2
+2021-02,Canada,8.5
+2021-02,Japan,2.9
+2021-02,Germany,3.9
+2021-03,Japan,2.7
+2021-03,United Kingdom,5.0
+2021-03,Italy,10.1
+2021-03,France,8.2
+2021-03,Germany,3.9
+2021-03,Canada,7.7
+2021-03,United States,6.1
+2021-04,Germany,3.8
+2021-04,Japan,2.9
+2021-04,United Kingdom,5.0
+2021-04,Italy,10.2
+2021-04,Canada,8.2
+2021-04,United States,6.1
+2021-04,France,8.3
+2021-05,United Kingdom,4.8
+2021-05,Italy,9.9
+2021-05,Germany,3.8
+2021-05,United States,5.8
+2021-05,Canada,8.3
+2021-05,Japan,2.9
+2021-05,France,8.1
+2021-06,Germany,3.6
+2021-06,Italy,9.5
+2021-06,Canada,7.9
+2021-06,France,8.0
+2021-06,Japan,2.9
+2021-06,United States,5.9
+2021-06,United Kingdom,4.7
+2021-07,United States,5.4
+2021-07,Japan,2.8
+2021-07,Italy,9.1
+2021-07,Canada,7.4
+2021-07,United Kingdom,4.6
+2021-07,Germany,3.5
+2021-07,France,7.9
+2021-08,United States,5.1
+2021-08,Japan,2.8
+2021-08,Canada,7.1
+2021-08,Germany,3.4
+2021-08,United Kingdom,4.4
+2021-08,Italy,9.1
+2021-08,France,7.8
+2021-09,France,7.7
+2021-09,Germany,3.4
+2021-09,United Kingdom,4.3
+2021-09,United States,4.7
+2021-09,Japan,2.7
+2021-09,Canada,7.0
+2021-09,Italy,9.1
+2021-10,United States,4.5
+2021-10,Italy,9.1
+2021-10,France,7.5
+2021-10,Canada,6.5
+2021-10,Japan,2.7
+2021-10,United Kingdom,4.2
+2021-10,Germany,3.3
+2021-11,Canada,6.1
+2021-11,United States,4.1
+2021-11,Japan,2.8
+2021-11,France,7.4
+2021-11,Germany,3.3
+2021-11,Italy,9.1
+2021-11,United Kingdom,4.2
+2021-12,Italy,8.8
+2021-12,Canada,5.9
+2021-12,United Kingdom,4.1
+2021-12,Japan,2.7
+2021-12,Germany,3.2
+2021-12,United States,3.9
+2021-12,France,7.4
+2022-01,France,7.3
+2022-01,Canada,6.5
+2022-01,Italy,8.6
+2022-01,United Kingdom,4.0
+2022-01,Germany,3.2
+2022-01,Japan,2.8
+2022-01,United States,4.0
+2022-02,Canada,5.5
+2022-02,Italy,8.4
+2022-02,United Kingdom,3.9
+2022-02,Germany,3.1
+2022-02,France,7.3
+2022-02,Japan,2.7
+2022-02,United States,3.8
+2022-03,Germany,3.1
+2022-03,France,7.4
+2022-03,Japan,2.6
+2022-03,United Kingdom,4.0
+2022-03,Canada,5.4
+2022-03,United States,3.6
+2022-03,Italy,8.3
+2022-04,United States,3.7
+2022-04,Italy,8.1
+2022-04,Canada,5.3
+2022-04,Japan,2.6
+2022-04,France,7.6
+2022-04,Germany,3.0
+2022-04,United Kingdom,3.9
+2022-05,France,7.6
+2022-05,Japan,2.6
+2022-05,Canada,5.2
+2022-05,Germany,3.0
+2022-05,Italy,8.1
+2022-05,United Kingdom,3.9
+2022-05,United States,3.6
+2022-06,Germany,3.0
+2022-06,Japan,2.6
+2022-06,Italy,8.2
+2022-06,United Kingdom,3.7
+2022-06,United States,3.6
+2022-06,Canada,5.0
+2022-06,France,7.5
+2022-07,United States,3.5
+2022-07,Japan,2.5
+2022-07,United Kingdom,3.6
+2022-07,Germany,3.0
+2022-07,Italy,8.0
+2022-07,Canada,4.8
+2022-07,France,7.3
+2022-08,Canada,5.2
+2022-08,Japan,2.5
+2022-08,United Kingdom,3.8
+2022-08,Germany,3.0
+2022-08,United States,3.6
+2022-08,France,7.2
+2022-08,Italy,8.2
+2022-09,Italy,8.0
+2022-09,Germany,3.1
+2022-09,Japan,2.6
+2022-09,France,7.1
+2022-09,Canada,5.1
+2022-09,United States,3.5
+2022-09,United Kingdom,3.9
+2022-10,Japan,2.6
+2022-10,Germany,3.1
+2022-10,United Kingdom,3.8
+2022-10,Italy,7.8
+2022-10,France,7.2
+2022-10,Canada,5.1
+2022-10,United States,3.6
+2022-11,France,7.1
+2022-11,United States,3.6
+2022-11,Italy,7.8
+2022-11,United Kingdom,3.9
+2022-11,Japan,2.5
+2022-11,Germany,3.0
+2022-11,Canada,5.1
+2022-12,Canada,5.0
+2022-12,United Kingdom,3.8
+2022-12,France,7.1
+2022-12,Japan,2.5
+2022-12,Italy,7.9
+2022-12,Germany,3.0
+2022-12,United States,3.5
+2023-01,United Kingdom,3.9
+2023-01,Germany,3.0
+2023-01,Canada,5.0
+2023-01,France,7.1
+2023-01,Italy,7.9
+2023-01,United States,3.4
+2023-01,Japan,2.5
+2023-02,United Kingdom,4.0
+2023-02,Canada,5.1
+2023-02,Germany,3.0
+2023-02,Italy,7.8
+2023-02,France,7.1
+2023-02,United States,3.6
+2023-02,Japan,2.6
+2023-03,United States,3.5
+2023-03,France,7.1
+2023-03,Italy,7.9
+2023-03,Germany,2.9
+2023-03,Canada,5.1
+2023-03,Japan,2.7
+2023-03,United Kingdom,3.9
+2023-04,Germany,2.9
+2023-04,United States,3.4
+2023-04,France,7.3
+2023-04,Japan,2.6
+2023-04,United Kingdom,4.0
+2023-04,Italy,7.9
+2023-04,Canada,5.1
+2023-05,Germany,2.9
+2023-05,United States,3.7
+2023-05,United Kingdom,4.2
+2023-05,France,7.4
+2023-05,Italy,7.8
+2023-05,Japan,2.6
+2023-05,Canada,5.3
+2023-06,Germany,3.0
+2023-06,United Kingdom,4.3
+2023-06,Canada,5.4
+2023-06,France,7.4
+2023-06,Japan,2.5
+2023-06,United States,3.6
+2023-06,Italy,7.5
+2023-07,France,7.4
+2023-07,Italy,7.8
+2023-07,United Kingdom,4.2
+2023-07,Germany,3.0
+2023-07,United States,3.5
+2023-07,Canada,5.5
+2023-07,Japan,2.6
+2023-08,Canada,5.5
+2023-08,France,7.4
+2023-08,Japan,2.6
+2023-08,Germany,3.0
+2023-08,Italy,7.6
+2023-08,United Kingdom,4.1
+2023-08,United States,3.8
+2023-09,United Kingdom,4.0
+2023-09,Germany,3.1
+2023-09,Canada,5.6
+2023-09,United States,3.8
+2023-09,France,7.4
+2023-09,Italy,7.7
+2023-09,Japan,2.6
+2023-10,United Kingdom,3.9
+2023-10,Germany,3.1
+2023-10,Japan,2.5
+2023-10,Canada,5.7
+2023-10,Italy,7.6
+2023-10,United States,3.8
+2023-10,France,7.5
+2023-11,Italy,7.5
+2023-11,Japan,2.5
+2023-11,Canada,5.8
+2023-11,United Kingdom,3.8
+2023-11,France,7.5
+2023-11,Germany,3.1
+2023-11,United States,3.7
+2023-12,Germany,3.2
+2023-12,Japan,2.5
+2023-12,Italy,7.2
+2023-12,France,7.6
+2023-12,United Kingdom,4.0
+2023-12,Canada,5.8
+2023-12,United States,3.7
+2024-01,Italy,7.2
+2024-01,Canada,5.7
+2024-01,France,7.5
+2024-01,Germany,3.2
+2024-01,Japan,2.4
+2024-01,United Kingdom,4.2
+2024-01,United States,3.7
+2024-02,United States,3.9
+2024-02,Italy,7.3
+2024-02,Canada,5.8
+2024-02,United Kingdom,4.3
+2024-02,Germany,3.3
+2024-02,Japan,2.6
+2024-02,France,7.5
+2024-03,Japan,2.6
+2024-03,Germany,3.4
+2024-03,United Kingdom,4.4
+2024-03,France,7.4
+2024-03,Canada,6.1
+2024-03,United States,3.8
+2024-03,Italy,7.0
+2024-04,United States,3.9
+2024-04,Canada,6.1
+2024-04,Italy,6.7
+2024-04,France,7.4
+2024-04,United Kingdom,4.4
+2024-04,Germany,3.4
+2024-04,Japan,2.6
+2024-05,Germany,3.5
+2024-05,United Kingdom,4.2
+2024-05,France,7.5
+2024-05,Canada,6.2
+2024-05,United States,4.0
+2024-05,Japan,2.6
+2024-05,Italy,6.8
+2024-06,Canada,6.4
+2024-06,France,7.5
+2024-06,Germany,3.5
+2024-06,Japan,2.5
+2024-06,United States,4.1
+2024-06,United Kingdom,4.1
+2024-06,Italy,6.8
+2024-07,Canada,6.4
+2024-07,United States,4.3
+2024-07,Germany,3.5
+2024-07,Japan,2.7
+2024-07,France,7.5
+2024-07,Italy,6.4
+2024-08,Italy,6.2
+2024-08,Canada,6.6
+2024-08,United States,4.2
+2024-08,Japan,2.5
+2024-08,France,7.5
+2024-08,Germany,3.5
+2024-09,United States,4.1
